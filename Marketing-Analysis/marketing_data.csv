@@ -1,0 +1,2001 @@
+date,platform,campaign_name,impressions,clicks,cost,conversions,revenue
+2023-10-17,LinkedIn Ads,Spring Sale,20448,797,1433.83,59,8148.37
+2023-10-09,TikTok Ads,New Product Launch,46802,1132,1484.36,52,4396.05
+2023-08-27,Google Ads,New Product Launch,9301,219,111.5,13,814.61
+2023-01-13,Google Ads,Retargeting,28024,385,754.8,19,2513.82
+2023-11-23,Facebook Ads,New Product Launch,22579,348,874.98,9,1332.61
+2023-03-29,Facebook Ads,Brand Awareness,24088,354,605.52,32,2437.69
+2023-09-20,TikTok Ads,Spring Sale,25953,342,823.08,26,2642.52
+2023-04-12,Google Ads,Spring Sale,9263,276,527.76,20,2837.44
+2023-11-09,Facebook Ads,Spring Sale,10318,243,515.89,12,1754.17
+2023-05-10,TikTok Ads,New Product Launch,42215,1340,1662.33,67,8818.35
+2023-08-16,LinkedIn Ads,Spring Sale,46576,1860,4388.21,142,17481.69
+2023-05-23,LinkedIn Ads,Retargeting,31216,494,1114.52,40,4604.25
+2023-03-29,Google Ads,New Product Launch,34008,645,1621.64,43,2657.7
+2023-05-01,Google Ads,Brand Awareness,10868,182,244.68,17,1099.85
+2023-06-22,TikTok Ads,Brand Awareness,32297,815,1483.66,36,3060.27
+2023-06-03,TikTok Ads,Brand Awareness,10566,195,518.37,16,1115.22
+2023-10-28,TikTok Ads,New Product Launch,27260,207,363.78,8,1124.43
+2023-09-23,TikTok Ads,New Product Launch,32956,435,625.26,37,3020.74
+2023-02-25,Facebook Ads,Spring Sale,21661,577,1534.74,45,3167.88
+2023-11-19,Facebook Ads,New Product Launch,18439,712,885.38,15,962.53
+2023-10-21,LinkedIn Ads,Retargeting,30010,343,224.81,31,2616.69
+2023-11-22,Facebook Ads,Brand Awareness,2051,10,11.02,0,0.0
+2023-02-14,Facebook Ads,Spring Sale,22797,855,464.31,78,6290.45
+2023-03-01,Facebook Ads,Retargeting,16262,403,723.79,16,1436.32
+2023-09-09,Google Ads,New Product Launch,41108,1191,760.26,104,8000.42
+2023-10-21,Google Ads,Retargeting,32516,1122,2310.81,58,8570.24
+2023-01-19,Facebook Ads,Spring Sale,5698,186,343.09,14,1069.39
+2023-09-06,LinkedIn Ads,Spring Sale,38462,911,2544.24,77,10147.2
+2023-05-11,Facebook Ads,New Product Launch,4513,164,488.54,15,1946.15
+2023-05-18,Google Ads,Spring Sale,21851,568,874.67,50,4847.88
+2023-01-15,Google Ads,Spring Sale,37028,1226,2110.58,69,7987.25
+2023-10-21,Facebook Ads,New Product Launch,20673,260,283.63,20,1180.32
+2023-04-27,Facebook Ads,New Product Launch,23141,828,1119.5,57,6841.01
+2023-12-03,Facebook Ads,Retargeting,4944,193,144.25,8,973.52
+2023-03-25,Google Ads,Brand Awareness,29604,351,328.93,25,1398.1
+2023-06-12,LinkedIn Ads,Brand Awareness,6798,101,210.48,9,749.71
+2023-11-07,Facebook Ads,Spring Sale,35740,230,244.24,5,632.27
+2023-06-23,Facebook Ads,Spring Sale,14065,429,846.78,36,3499.79
+2023-04-26,Facebook Ads,New Product Launch,45265,400,224.19,9,450.2
+2023-09-09,Facebook Ads,Brand Awareness,34620,1364,2962.03,114,16426.24
+2023-07-11,TikTok Ads,Retargeting,8809,301,242.65,29,4301.72
+2023-04-06,TikTok Ads,New Product Launch,13084,336,660.98,10,1121.47
+2023-05-10,TikTok Ads,Brand Awareness,9957,130,266.5,10,794.6
+2023-06-29,TikTok Ads,Spring Sale,4109,131,166.64,5,546.82
+2023-06-22,Google Ads,Spring Sale,13157,141,408.84,13,1577.09
+2023-10-01,LinkedIn Ads,Brand Awareness,14918,353,990.98,23,1662.04
+2023-08-14,LinkedIn Ads,New Product Launch,37329,1277,3610.24,93,6932.64
+2023-07-11,LinkedIn Ads,Brand Awareness,45894,433,779.46,17,1116.76
+2023-08-01,TikTok Ads,New Product Launch,29262,944,511.04,79,4580.84
+2023-08-28,TikTok Ads,Spring Sale,48529,1604,4336.1,97,13813.21
+2023-02-20,LinkedIn Ads,Brand Awareness,39590,787,730.71,61,5434.84
+2023-03-16,Facebook Ads,Spring Sale,4229,41,44.28,2,295.24
+2023-11-15,LinkedIn Ads,Spring Sale,34226,251,662.63,7,640.77
+2023-12-05,LinkedIn Ads,Retargeting,7986,205,235.41,8,1022.71
+2023-09-07,Facebook Ads,Retargeting,7367,155,378.67,7,913.08
+2023-03-01,Facebook Ads,New Product Launch,38218,1310,2972.05,59,7430.44
+2023-06-11,LinkedIn Ads,Brand Awareness,35142,452,999.9,36,4149.16
+2024-01-01,TikTok Ads,Spring Sale,14802,354,898.25,17,1109.98
+2023-04-30,Google Ads,Brand Awareness,27152,205,337.15,12,733.81
+2023-01-11,LinkedIn Ads,Brand Awareness,27234,461,1078.66,38,2893.44
+2023-11-03,Google Ads,Brand Awareness,35966,1299,1808.12,49,5998.94
+2023-09-02,TikTok Ads,New Product Launch,5343,148,275.93,4,240.48
+2023-05-13,Google Ads,Brand Awareness,21816,360,300.43,8,614.35
+2023-04-01,TikTok Ads,New Product Launch,36444,1307,1798.98,107,5380.96
+2023-06-26,LinkedIn Ads,Brand Awareness,35720,1415,1143.27,43,2729.99
+2023-01-29,LinkedIn Ads,Retargeting,49811,913,2211.05,59,8366.06
+2023-09-26,LinkedIn Ads,Brand Awareness,46960,1625,1728.57,132,13221.91
+2023-08-01,Facebook Ads,Brand Awareness,31855,512,1135.3,33,1735.07
+2023-08-11,Google Ads,Brand Awareness,8106,43,50.46,1,97.63
+2023-10-11,LinkedIn Ads,New Product Launch,15973,581,1307.99,23,2808.85
+2023-09-06,Facebook Ads,Retargeting,41011,948,891.19,63,7498.3
+2023-04-08,Facebook Ads,Brand Awareness,3941,104,292.93,7,477.04
+2023-01-11,TikTok Ads,Spring Sale,10581,393,472.86,32,1659.2
+2023-07-24,TikTok Ads,New Product Launch,43342,292,669.32,11,903.17
+2023-12-10,TikTok Ads,Brand Awareness,12003,251,642.52,13,1059.67
+2023-06-07,Facebook Ads,Spring Sale,18525,189,307.06,16,2379.6
+2023-12-25,TikTok Ads,New Product Launch,15721,255,431.34,13,884.45
+2023-10-09,LinkedIn Ads,Spring Sale,36906,903,2291.32,36,4690.23
+2023-05-27,LinkedIn Ads,Brand Awareness,6255,200,426.7,19,1524.83
+2023-11-08,Google Ads,New Product Launch,19346,736,512.91,58,3732.23
+2023-02-02,Facebook Ads,New Product Launch,45378,569,454.56,36,2429.2
+2023-08-21,Google Ads,Spring Sale,29174,825,2105.03,27,2520.26
+2023-11-07,LinkedIn Ads,Spring Sale,27452,900,1815.61,82,9527.28
+2023-01-17,TikTok Ads,Retargeting,3272,51,31.25,1,104.18
+2023-02-04,Facebook Ads,Retargeting,4487,133,115.03,12,694.11
+2023-02-09,TikTok Ads,Retargeting,27068,687,483.75,39,2958.05
+2023-03-18,TikTok Ads,New Product Launch,39892,778,461.41,56,6751.55
+2023-08-10,LinkedIn Ads,Retargeting,36204,552,979.96,54,4209.63
+2023-03-09,Google Ads,Retargeting,26701,968,1352.44,49,4852.43
+2023-12-16,Facebook Ads,Brand Awareness,23196,519,898.93,23,2403.0
+2023-04-10,Facebook Ads,New Product Launch,41234,1343,3867.49,70,4803.59
+2023-08-06,LinkedIn Ads,New Product Launch,19741,694,1837.82,67,3713.51
+2023-03-09,Google Ads,New Product Launch,21982,450,1314.59,36,4387.4
+2023-12-02,LinkedIn Ads,Retargeting,8563,244,215.84,19,1562.09
+2023-02-08,Facebook Ads,Brand Awareness,29074,1091,996.04,102,11331.38
+2023-10-15,TikTok Ads,Spring Sale,9344,220,192.61,11,633.6
+2023-01-08,TikTok Ads,New Product Launch,43744,1286,2952.64,75,9885.57
+2023-06-11,Facebook Ads,Brand Awareness,19336,637,1297.06,58,3202.78
+2023-10-22,TikTok Ads,New Product Launch,40751,619,1533.49,20,1097.0
+2023-09-08,LinkedIn Ads,Spring Sale,44469,268,301.41,8,459.77
+2023-08-09,TikTok Ads,Retargeting,10266,216,295.21,6,471.06
+2023-09-04,Facebook Ads,Brand Awareness,20248,230,559.57,7,649.9
+2023-11-25,LinkedIn Ads,Brand Awareness,39932,1076,1899.92,103,6311.69
+2023-01-09,TikTok Ads,Brand Awareness,22366,334,607.77,25,2638.27
+2023-10-25,Facebook Ads,Spring Sale,10590,243,173.19,14,1730.48
+2023-10-25,Google Ads,Retargeting,27992,1067,970.62,31,3588.36
+2023-06-25,Google Ads,Retargeting,22483,304,570.85,15,982.67
+2023-03-23,TikTok Ads,Brand Awareness,48194,766,1771.13,22,2096.74
+2023-07-25,TikTok Ads,Brand Awareness,26677,145,383.7,5,744.11
+2023-02-04,TikTok Ads,Retargeting,9008,132,160.06,12,1708.54
+2024-01-01,Facebook Ads,Retargeting,9983,152,219.8,9,1314.29
+2023-07-15,LinkedIn Ads,Brand Awareness,35354,350,218.4,32,1973.38
+2023-02-08,TikTok Ads,Brand Awareness,18051,451,433.79,24,3403.37
+2023-03-07,TikTok Ads,New Product Launch,38382,717,1145.15,17,1118.4
+2023-10-04,Facebook Ads,New Product Launch,31372,980,2236.24,51,3805.38
+2023-11-12,LinkedIn Ads,Brand Awareness,10574,55,115.32,1,89.58
+2023-01-26,Google Ads,Brand Awareness,18055,584,816.18,26,3330.29
+2023-10-28,Google Ads,New Product Launch,4627,87,257.2,3,306.1
+2023-08-29,LinkedIn Ads,Spring Sale,28075,271,280.45,22,2289.3
+2023-10-25,Facebook Ads,New Product Launch,35102,1325,2648.21,129,9931.67
+2023-10-12,Google Ads,Retargeting,31291,857,994.26,36,3805.45
+2023-07-25,Google Ads,Brand Awareness,32636,1149,2283.01,27,1839.77
+2023-08-25,TikTok Ads,New Product Launch,11752,393,1039.93,11,568.28
+2023-10-07,Facebook Ads,Spring Sale,6124,60,163.79,3,385.02
+2023-09-17,Facebook Ads,Retargeting,12296,71,63.99,1,94.39
+2023-03-17,Facebook Ads,New Product Launch,26359,485,688.01,20,2978.94
+2024-01-01,TikTok Ads,Retargeting,49273,863,2060.82,61,8429.12
+2023-07-21,Google Ads,Retargeting,27578,796,658.04,35,5216.09
+2023-12-19,Google Ads,Spring Sale,9162,249,310.41,15,1956.8
+2023-07-18,Google Ads,New Product Launch,45533,1781,1554.91,128,7232.78
+2023-06-05,LinkedIn Ads,New Product Launch,48902,1066,741.51,28,1723.55
+2023-02-20,TikTok Ads,Brand Awareness,2723,106,236.87,4,527.63
+2023-07-05,LinkedIn Ads,New Product Launch,15783,148,122.52,14,844.89
+2023-12-22,LinkedIn Ads,Brand Awareness,24387,208,198.12,10,937.41
+2023-10-03,TikTok Ads,Retargeting,49949,812,1798.79,53,3781.68
+2023-06-20,LinkedIn Ads,Spring Sale,3173,16,13.87,0,0.0
+2023-11-21,TikTok Ads,Brand Awareness,9239,351,832.58,25,3629.59
+2023-11-30,TikTok Ads,Brand Awareness,21184,544,314.81,11,1379.89
+2023-10-13,LinkedIn Ads,Retargeting,3931,116,94.94,2,293.81
+2023-06-17,Facebook Ads,Retargeting,11742,276,715.3,9,1289.77
+2023-03-08,LinkedIn Ads,Brand Awareness,3682,25,12.99,1,134.73
+2023-01-03,Google Ads,Spring Sale,32804,486,1384.04,43,4615.45
+2023-08-17,LinkedIn Ads,Retargeting,6088,195,381.15,12,1314.08
+2023-11-12,Facebook Ads,Spring Sale,42090,526,1318.62,38,2669.43
+2023-09-17,LinkedIn Ads,Spring Sale,21936,482,1383.26,45,5361.85
+2023-10-25,LinkedIn Ads,Retargeting,35335,652,1749.01,34,3886.6
+2023-06-25,LinkedIn Ads,Brand Awareness,43558,481,809.59,31,4368.87
+2023-06-03,Google Ads,New Product Launch,15698,585,1365.48,41,5204.29
+2023-03-21,Google Ads,Spring Sale,1078,33,83.08,3,354.27
+2023-09-23,TikTok Ads,Brand Awareness,9394,182,103.36,16,1560.54
+2023-09-02,Facebook Ads,Spring Sale,36873,962,1119.03,21,2791.17
+2023-06-17,LinkedIn Ads,New Product Launch,49741,894,479.83,42,4931.72
+2023-12-22,TikTok Ads,Retargeting,48676,1815,4484.26,38,4004.35
+2023-04-19,LinkedIn Ads,Spring Sale,40386,604,1058.82,58,7391.43
+2023-11-02,TikTok Ads,Brand Awareness,10729,115,282.94,9,1212.01
+2023-08-01,LinkedIn Ads,Brand Awareness,3931,105,311.77,7,562.14
+2023-07-21,Google Ads,Brand Awareness,11022,191,230.43,13,1869.18
+2023-10-10,Google Ads,New Product Launch,22841,318,349.82,27,2568.7
+2023-09-17,TikTok Ads,Retargeting,33955,1231,3318.71,55,8121.93
+2023-08-27,Google Ads,Retargeting,45258,1063,2991.18,78,7185.98
+2023-10-16,Google Ads,New Product Launch,26599,522,791.4,26,1595.23
+2023-04-15,TikTok Ads,New Product Launch,1891,26,15.95,2,202.41
+2023-03-22,Facebook Ads,Retargeting,5868,180,437.82,13,1866.55
+2023-01-10,Facebook Ads,Spring Sale,44251,1282,998.52,93,9767.4
+2023-04-01,Facebook Ads,Brand Awareness,41933,581,1143.27,26,2130.14
+2023-08-28,Facebook Ads,Spring Sale,37244,991,2833.54,64,6218.27
+2023-12-21,TikTok Ads,New Product Launch,5999,149,242.87,3,250.94
+2023-07-26,LinkedIn Ads,Spring Sale,33073,589,844.54,17,1748.05
+2023-01-06,LinkedIn Ads,Retargeting,47072,1748,3526.98,125,16824.15
+2023-07-29,TikTok Ads,New Product Launch,7106,261,215.74,22,1830.7
+2023-01-30,TikTok Ads,Brand Awareness,32546,1181,1100.87,60,8918.82
+2023-05-08,LinkedIn Ads,Retargeting,32988,484,626.61,12,1393.95
+2023-05-02,Google Ads,Spring Sale,32932,267,766.14,13,762.64
+2023-08-07,LinkedIn Ads,New Product Launch,49350,1566,1855.67,127,18059.51
+2023-09-18,TikTok Ads,Retargeting,18491,677,735.1,58,3955.51
+2023-10-22,Facebook Ads,Retargeting,25810,869,1136.89,20,1109.02
+2023-05-01,LinkedIn Ads,New Product Launch,25603,733,1198.14,64,5483.89
+2023-05-15,LinkedIn Ads,Brand Awareness,21072,325,545.33,13,861.62
+2023-07-15,Facebook Ads,Retargeting,3451,135,175.58,6,842.81
+2023-04-18,LinkedIn Ads,Brand Awareness,41678,523,663.22,31,2487.25
+2023-04-24,TikTok Ads,Retargeting,15644,373,765.77,12,1331.41
+2023-03-31,TikTok Ads,Brand Awareness,5294,104,171.27,4,399.61
+2023-07-18,Google Ads,Spring Sale,39612,982,868.83,85,10001.83
+2023-01-12,TikTok Ads,Spring Sale,14749,146,145.02,4,422.37
+2023-09-03,LinkedIn Ads,Spring Sale,32501,1220,2415.87,81,5172.98
+2023-01-28,TikTok Ads,Brand Awareness,21288,802,734.35,30,4428.96
+2023-06-07,Facebook Ads,Brand Awareness,29289,292,809.54,8,593.36
+2023-08-14,LinkedIn Ads,New Product Launch,41716,321,821.19,28,1571.24
+2023-05-23,TikTok Ads,Spring Sale,27829,875,1420.26,33,3075.25
+2023-11-16,LinkedIn Ads,Brand Awareness,15662,186,256.33,4,292.61
+2023-06-08,Google Ads,New Product Launch,48855,523,680.13,10,576.71
+2023-11-20,Google Ads,Brand Awareness,46835,248,427.52,10,1038.08
+2023-02-23,LinkedIn Ads,Brand Awareness,19711,550,650.46,25,3516.42
+2023-03-08,Google Ads,New Product Launch,49319,1611,2091.7,93,9672.93
+2023-10-15,LinkedIn Ads,Retargeting,33890,711,1374.35,55,3439.22
+2023-05-05,TikTok Ads,Retargeting,49589,1047,850.03,104,6936.95
+2023-08-10,Facebook Ads,New Product Launch,42966,490,708.79,10,959.89
+2023-12-20,LinkedIn Ads,Retargeting,16928,159,189.98,9,842.13
+2023-06-27,LinkedIn Ads,New Product Launch,27202,487,963.65,29,2683.33
+2023-08-28,LinkedIn Ads,Retargeting,12187,400,416.25,37,3555.06
+2023-10-21,Facebook Ads,Brand Awareness,49390,362,813.0,19,2393.89
+2023-06-10,TikTok Ads,Retargeting,43250,595,858.02,27,2456.57
+2023-05-06,Google Ads,New Product Launch,42655,1074,2642.42,59,4490.66
+2023-02-27,Facebook Ads,Retargeting,2677,62,183.39,5,648.33
+2023-11-02,Google Ads,Spring Sale,15236,598,949.81,31,1813.62
+2023-06-26,Google Ads,New Product Launch,38948,578,1606.46,39,5055.57
+2023-03-12,LinkedIn Ads,New Product Launch,6273,135,134.08,10,1280.06
+2023-10-08,Google Ads,New Product Launch,16652,246,413.68,16,1483.84
+2023-09-29,TikTok Ads,New Product Launch,16363,151,240.69,12,1194.1
+2023-01-18,TikTok Ads,Retargeting,35199,1327,1655.11,43,6426.87
+2023-03-29,TikTok Ads,Retargeting,30859,892,2350.14,80,11598.54
+2023-04-12,LinkedIn Ads,Retargeting,28791,737,863.96,58,8358.52
+2023-10-16,Facebook Ads,New Product Launch,28627,365,578.88,34,2038.22
+2023-02-20,TikTok Ads,Spring Sale,43981,1751,4157.54,91,6694.47
+2023-10-15,Google Ads,Spring Sale,11477,265,192.31,11,1628.57
+2023-09-04,TikTok Ads,Brand Awareness,25188,531,1220.81,26,2616.85
+2023-03-27,TikTok Ads,Retargeting,14127,228,333.41,16,1496.66
+2023-07-29,TikTok Ads,Brand Awareness,36597,635,740.9,49,5658.4
+2023-09-02,Google Ads,Brand Awareness,23202,758,1060.98,53,7523.55
+2023-09-16,TikTok Ads,Spring Sale,1773,13,21.78,0,0.0
+2023-04-14,Google Ads,Retargeting,30223,407,329.53,10,1404.27
+2023-08-18,TikTok Ads,New Product Launch,5097,39,95.07,2,182.9
+2023-01-01,Facebook Ads,New Product Launch,28645,634,594.91,13,1380.66
+2023-12-19,TikTok Ads,New Product Launch,7774,64,39.63,2,211.92
+2023-04-29,Facebook Ads,Retargeting,44423,883,490.85,87,9387.65
+2023-10-10,Google Ads,Retargeting,29103,284,601.0,25,2764.89
+2023-01-22,TikTok Ads,New Product Launch,47726,1501,896.25,104,14472.71
+2023-02-17,Facebook Ads,New Product Launch,49714,768,413.15,23,3345.72
+2023-01-15,Google Ads,Brand Awareness,31728,548,1381.49,42,6194.04
+2023-03-21,LinkedIn Ads,Spring Sale,49379,1595,3354.31,64,8189.51
+2023-05-25,Facebook Ads,New Product Launch,5739,71,109.26,3,333.03
+2023-02-06,TikTok Ads,Retargeting,35087,214,590.12,8,1083.31
+2023-06-01,Google Ads,Spring Sale,20787,454,400.79,13,1172.62
+2023-05-04,Facebook Ads,Spring Sale,48984,1163,2588.76,82,5701.5
+2023-04-23,LinkedIn Ads,Spring Sale,4898,77,108.28,2,237.9
+2023-05-25,Google Ads,Brand Awareness,43481,587,848.38,40,4721.76
+2023-09-01,LinkedIn Ads,Spring Sale,43118,695,1765.97,60,7209.93
+2023-07-25,LinkedIn Ads,Brand Awareness,6565,235,629.1,6,723.78
+2023-07-14,LinkedIn Ads,Retargeting,16422,492,674.12,31,4511.95
+2023-05-07,TikTok Ads,Retargeting,46608,297,390.89,17,2239.72
+2023-02-16,Google Ads,New Product Launch,6000,131,105.69,3,218.43
+2023-05-11,Google Ads,Spring Sale,13049,164,105.74,14,1429.98
+2023-12-31,Facebook Ads,New Product Launch,10318,410,1002.92,20,2973.75
+2023-04-13,Facebook Ads,New Product Launch,39659,1100,1250.97,42,2756.85
+2023-11-06,TikTok Ads,Spring Sale,10853,394,216.56,35,3513.89
+2023-08-06,TikTok Ads,Brand Awareness,41280,381,708.19,9,486.08
+2023-09-03,Google Ads,New Product Launch,49796,1974,4712.7,78,6862.51
+2023-07-02,Google Ads,Spring Sale,31820,639,1048.88,28,1570.09
+2023-08-27,Google Ads,Retargeting,17877,442,758.9,32,3771.37
+2023-02-28,TikTok Ads,Retargeting,42665,412,506.58,16,1912.32
+2023-03-06,TikTok Ads,Retargeting,30904,337,947.76,31,2133.42
+2023-11-28,TikTok Ads,Retargeting,30745,395,785.64,18,2545.44
+2023-08-21,Google Ads,Spring Sale,34772,275,442.92,21,2572.03
+2023-11-06,Google Ads,Spring Sale,34287,1051,612.2,75,8081.09
+2023-07-11,LinkedIn Ads,Retargeting,19472,292,364.18,14,1513.24
+2023-12-19,Google Ads,Spring Sale,10544,298,651.44,18,1876.18
+2023-06-18,LinkedIn Ads,Retargeting,45797,635,1641.08,20,2737.38
+2023-01-22,Facebook Ads,Spring Sale,3157,17,17.06,0,0.0
+2023-11-02,LinkedIn Ads,Brand Awareness,46943,323,863.47,7,780.19
+2023-11-22,Facebook Ads,Brand Awareness,37356,1395,741.41,122,17017.24
+2023-07-18,LinkedIn Ads,New Product Launch,45043,1534,2789.16,31,2260.91
+2023-01-20,LinkedIn Ads,Spring Sale,28352,350,643.61,11,743.89
+2023-03-19,Google Ads,Spring Sale,7519,248,403.32,19,1026.35
+2023-11-26,Facebook Ads,Retargeting,33464,743,880.21,38,4857.03
+2023-06-12,Google Ads,Spring Sale,6547,209,435.45,8,981.63
+2023-09-25,Google Ads,Spring Sale,43416,737,1170.56,19,1129.57
+2023-11-08,LinkedIn Ads,New Product Launch,9937,234,592.04,16,1951.5
+2023-07-08,Google Ads,Brand Awareness,31175,966,2654.0,73,9908.68
+2023-02-19,TikTok Ads,Retargeting,5978,104,56.37,3,432.97
+2023-10-24,TikTok Ads,Retargeting,48820,525,531.96,23,1845.77
+2023-11-04,Google Ads,Retargeting,7246,127,144.61,11,1324.67
+2023-07-31,Google Ads,Retargeting,10753,60,38.23,2,127.09
+2023-02-25,TikTok Ads,Brand Awareness,35949,363,754.46,9,779.86
+2023-10-15,Facebook Ads,Spring Sale,27763,460,783.46,40,3987.95
+2023-12-09,Google Ads,Retargeting,35399,377,495.07,9,952.84
+2023-03-26,Google Ads,Brand Awareness,28288,836,2240.95,18,1583.08
+2023-07-28,Google Ads,New Product Launch,31309,343,795.86,20,1316.95
+2023-10-18,TikTok Ads,Brand Awareness,45610,1149,2185.0,32,3450.79
+2023-12-15,LinkedIn Ads,Retargeting,16944,109,300.89,10,1091.85
+2023-06-18,Google Ads,New Product Launch,4387,123,349.76,3,227.78
+2023-04-13,LinkedIn Ads,Spring Sale,43549,1197,704.53,91,4627.54
+2023-07-13,Google Ads,Brand Awareness,4805,173,164.93,14,988.51
+2023-07-19,TikTok Ads,Retargeting,8376,135,111.3,8,1153.05
+2023-03-04,Facebook Ads,Retargeting,13300,228,570.98,16,957.75
+2023-04-23,LinkedIn Ads,New Product Launch,6201,225,260.3,4,310.84
+2023-09-25,TikTok Ads,Retargeting,5166,83,116.24,6,701.73
+2023-02-14,Facebook Ads,Brand Awareness,20222,169,458.97,10,1372.39
+2023-10-02,LinkedIn Ads,Retargeting,49281,1845,5248.64,96,7462.38
+2023-12-18,LinkedIn Ads,New Product Launch,38151,375,966.61,30,1954.17
+2023-05-18,Facebook Ads,Retargeting,14207,79,125.95,2,165.17
+2023-01-07,Google Ads,Brand Awareness,48253,1064,906.66,21,1780.37
+2023-01-21,Google Ads,Brand Awareness,39228,897,799.17,34,2299.77
+2023-10-01,TikTok Ads,Spring Sale,33957,565,421.22,11,996.44
+2023-02-12,Facebook Ads,New Product Launch,35454,636,1485.6,31,1876.74
+2023-12-24,LinkedIn Ads,Brand Awareness,3610,48,105.48,2,196.07
+2023-03-30,TikTok Ads,Spring Sale,35903,882,1759.4,80,7399.58
+2023-05-13,Google Ads,Spring Sale,30246,801,478.75,65,7576.59
+2023-04-30,TikTok Ads,Spring Sale,29693,884,837.72,46,3421.53
+2023-03-24,TikTok Ads,Retargeting,10128,287,281.71,21,1820.97
+2023-10-02,Google Ads,Spring Sale,33333,1235,1778.0,46,3062.73
+2023-09-25,Google Ads,Brand Awareness,29836,846,1456.86,72,6026.84
+2023-06-11,TikTok Ads,Brand Awareness,20875,293,243.4,6,617.96
+2023-06-18,LinkedIn Ads,Brand Awareness,8422,223,373.45,15,1332.95
+2023-01-13,Facebook Ads,Retargeting,36639,997,1648.54,37,4860.27
+2023-07-04,LinkedIn Ads,Spring Sale,27214,309,661.75,18,1909.4
+2023-12-09,Google Ads,Brand Awareness,6271,115,189.07,8,1009.84
+2023-02-25,TikTok Ads,New Product Launch,46045,1021,885.05,100,5715.64
+2023-12-23,Facebook Ads,New Product Launch,46284,843,963.7,24,2281.67
+2023-03-23,TikTok Ads,Brand Awareness,23459,603,1309.83,36,3774.9
+2023-07-01,Google Ads,New Product Launch,28258,161,430.61,12,1225.42
+2023-07-04,Google Ads,Spring Sale,45100,440,792.72,13,1722.21
+2023-10-08,Facebook Ads,Brand Awareness,29616,727,698.86,36,2668.71
+2023-08-15,Facebook Ads,Brand Awareness,15399,593,542.32,47,5346.17
+2023-09-17,Facebook Ads,Spring Sale,47508,1268,3317.99,27,3485.17
+2023-02-24,Google Ads,Spring Sale,45169,1174,1399.65,64,4456.44
+2023-12-16,TikTok Ads,Brand Awareness,6016,47,74.61,2,279.68
+2023-07-11,Facebook Ads,Brand Awareness,24130,451,612.32,42,2874.77
+2023-01-24,TikTok Ads,Retargeting,15914,457,979.58,39,3557.24
+2023-02-22,Google Ads,Retargeting,43098,1029,1938.8,86,12081.19
+2023-01-26,Google Ads,Retargeting,16058,447,382.23,44,2801.33
+2023-02-24,LinkedIn Ads,Brand Awareness,3470,123,222.06,7,838.29
+2023-12-24,TikTok Ads,Brand Awareness,31096,975,1651.67,47,4650.41
+2023-11-13,Google Ads,Retargeting,4080,133,164.18,7,849.86
+2023-08-02,LinkedIn Ads,Spring Sale,23772,441,430.43,14,861.56
+2023-12-26,Google Ads,Spring Sale,28766,620,1299.0,46,4053.49
+2023-12-17,Facebook Ads,Brand Awareness,28447,949,883.04,23,1990.58
+2023-08-28,Google Ads,Spring Sale,13531,382,463.21,19,1017.37
+2023-02-12,Google Ads,New Product Launch,29109,947,2733.34,53,5950.24
+2023-07-28,Google Ads,Brand Awareness,42627,1436,3052.62,114,14771.77
+2023-03-28,Google Ads,New Product Launch,43953,995,986.58,32,4197.57
+2023-09-27,Google Ads,Spring Sale,33160,568,1164.07,49,3291.33
+2023-05-07,TikTok Ads,Spring Sale,39297,369,498.39,8,945.55
+2023-03-21,Facebook Ads,Spring Sale,41452,804,1998.2,49,7309.11
+2023-11-24,Google Ads,Spring Sale,49869,1363,2488.89,85,4411.0
+2023-09-28,Google Ads,Brand Awareness,24263,923,1114.5,33,3851.13
+2023-01-19,Facebook Ads,Brand Awareness,15170,501,980.78,14,1767.86
+2023-05-28,Facebook Ads,Brand Awareness,2069,68,111.21,2,195.68
+2023-05-10,Google Ads,New Product Launch,21199,813,1419.38,49,7195.13
+2023-02-26,Google Ads,Retargeting,3222,113,163.41,2,252.08
+2023-02-01,LinkedIn Ads,Retargeting,12595,207,527.01,13,1460.16
+2023-07-13,TikTok Ads,New Product Launch,29597,712,368.65,21,2061.7
+2023-03-19,Google Ads,Spring Sale,36061,202,356.12,12,970.87
+2023-10-01,LinkedIn Ads,Spring Sale,6235,74,186.13,5,658.61
+2023-06-03,TikTok Ads,Retargeting,11867,188,349.36,18,1428.06
+2023-12-21,Facebook Ads,Spring Sale,49274,914,1738.73,23,3394.03
+2023-09-02,TikTok Ads,Spring Sale,41319,1347,3825.58,50,5858.23
+2023-02-15,TikTok Ads,Spring Sale,18560,143,327.64,14,1964.04
+2023-11-06,Facebook Ads,New Product Launch,13771,161,287.08,8,412.8
+2023-01-15,Google Ads,Brand Awareness,18172,185,361.41,12,854.85
+2023-02-13,Facebook Ads,Brand Awareness,20753,662,735.83,22,1455.68
+2023-02-11,TikTok Ads,New Product Launch,34359,800,972.68,18,2329.08
+2023-12-15,TikTok Ads,Spring Sale,17889,461,1164.4,31,4614.24
+2023-05-30,Google Ads,New Product Launch,14688,484,330.62,13,1519.39
+2023-03-13,Facebook Ads,Brand Awareness,38298,726,909.12,49,6827.79
+2023-04-18,Google Ads,New Product Launch,1651,47,34.53,4,341.57
+2023-08-06,Facebook Ads,Spring Sale,14903,204,149.23,10,527.13
+2023-07-04,Google Ads,Spring Sale,32455,982,1597.81,34,4309.48
+2023-03-16,Facebook Ads,Retargeting,17702,497,1105.65,15,2028.2
+2023-06-25,LinkedIn Ads,Spring Sale,20303,270,271.83,24,3321.15
+2023-12-02,Facebook Ads,Spring Sale,38042,1073,1624.75,104,9548.96
+2023-07-21,Google Ads,New Product Launch,28657,322,268.08,13,1478.43
+2023-07-29,Facebook Ads,New Product Launch,13044,326,652.85,25,1673.01
+2023-05-13,LinkedIn Ads,New Product Launch,19923,319,548.89,20,2374.49
+2023-05-30,Google Ads,Brand Awareness,37021,848,1183.87,21,1521.01
+2023-05-12,TikTok Ads,Spring Sale,31449,943,816.78,77,9986.46
+2023-11-30,Facebook Ads,Spring Sale,37036,271,357.01,23,1487.34
+2023-11-23,Google Ads,Spring Sale,42076,1439,3833.75,68,7970.03
+2023-07-13,Google Ads,Retargeting,13568,208,162.22,10,1488.25
+2023-09-16,Facebook Ads,Spring Sale,43975,1036,1415.22,29,4254.83
+2023-07-26,LinkedIn Ads,Retargeting,35053,883,1854.29,23,2680.48
+2023-06-01,Facebook Ads,Retargeting,49362,1295,2521.77,69,8994.51
+2023-12-31,LinkedIn Ads,New Product Launch,10596,336,802.64,32,2147.01
+2023-09-07,LinkedIn Ads,Spring Sale,4345,79,81.37,3,400.53
+2024-01-01,TikTok Ads,Brand Awareness,12421,436,336.67,25,1853.86
+2023-07-02,LinkedIn Ads,Spring Sale,14696,247,648.48,24,2954.35
+2023-12-21,Facebook Ads,Retargeting,11112,124,116.34,6,454.67
+2023-11-02,TikTok Ads,Retargeting,25852,445,894.19,9,509.09
+2023-06-28,Google Ads,New Product Launch,47575,1522,2829.42,35,2064.35
+2023-12-05,TikTok Ads,Brand Awareness,6433,215,258.46,12,720.45
+2023-12-13,TikTok Ads,New Product Launch,15238,599,416.25,32,4636.54
+2023-05-06,Facebook Ads,New Product Launch,14820,485,340.33,28,2027.56
+2023-09-02,Facebook Ads,Retargeting,33647,1299,763.31,73,7560.92
+2023-03-16,LinkedIn Ads,Brand Awareness,28502,784,1935.23,55,4253.0
+2023-04-22,TikTok Ads,Brand Awareness,28917,632,1188.22,53,4863.87
+2023-09-08,TikTok Ads,Brand Awareness,41504,613,1506.39,26,3098.84
+2023-07-29,TikTok Ads,Retargeting,31990,622,1849.46,21,1113.16
+2023-12-11,TikTok Ads,New Product Launch,30430,850,602.77,42,3803.65
+2023-04-01,LinkedIn Ads,Retargeting,44108,746,1780.25,73,5526.33
+2023-05-19,Facebook Ads,Spring Sale,22376,411,1051.03,19,2461.12
+2023-10-01,Google Ads,Brand Awareness,13464,460,674.91,13,1362.41
+2023-08-10,LinkedIn Ads,New Product Launch,26224,327,783.22,29,4102.12
+2023-04-10,LinkedIn Ads,Spring Sale,9764,97,155.56,5,710.55
+2023-08-02,TikTok Ads,New Product Launch,49234,606,1112.97,56,6121.95
+2023-02-02,LinkedIn Ads,Brand Awareness,23765,936,1751.83,78,7658.93
+2023-03-17,Google Ads,Retargeting,29608,1061,995.92,54,5846.58
+2023-01-31,Facebook Ads,Retargeting,41864,927,1682.19,60,3368.96
+2023-05-07,Facebook Ads,Retargeting,36400,328,283.18,23,2037.53
+2023-02-25,LinkedIn Ads,New Product Launch,28997,1094,1295.94,49,4791.75
+2023-08-15,Facebook Ads,Spring Sale,33860,752,945.33,19,1886.35
+2023-12-14,Facebook Ads,Spring Sale,46726,1255,3045.8,115,8151.08
+2023-12-24,LinkedIn Ads,Retargeting,5675,72,210.86,5,313.14
+2023-11-06,Google Ads,Brand Awareness,32742,931,640.42,61,5321.54
+2023-03-21,TikTok Ads,Spring Sale,1164,46,83.52,1,139.43
+2023-10-01,LinkedIn Ads,Spring Sale,19348,584,1664.73,45,5487.45
+2023-04-02,Facebook Ads,Brand Awareness,4538,76,172.56,4,358.61
+2023-07-12,Google Ads,Spring Sale,11382,181,257.73,7,858.26
+2023-06-23,LinkedIn Ads,Spring Sale,49445,1288,3663.03,49,4236.73
+2023-09-04,TikTok Ads,Retargeting,12137,466,1061.98,42,5745.08
+2023-05-14,TikTok Ads,Spring Sale,8388,56,45.93,1,83.41
+2023-09-11,Google Ads,Brand Awareness,15520,260,762.39,22,1753.7
+2023-07-29,TikTok Ads,Spring Sale,7277,222,602.12,9,501.57
+2023-06-25,LinkedIn Ads,New Product Launch,46570,1144,1180.22,30,3986.29
+2023-06-14,TikTok Ads,Spring Sale,8246,166,274.82,9,1072.48
+2023-11-17,TikTok Ads,New Product Launch,41858,573,1426.69,33,2272.37
+2023-02-23,Facebook Ads,Brand Awareness,48729,1450,2183.67,62,6954.31
+2023-05-28,Google Ads,Retargeting,28430,323,448.58,31,2967.66
+2023-03-01,LinkedIn Ads,Brand Awareness,24883,161,98.34,4,254.54
+2023-09-27,TikTok Ads,Spring Sale,9762,111,194.42,3,189.48
+2023-09-14,Facebook Ads,Retargeting,39825,396,842.57,27,3258.24
+2023-05-04,Facebook Ads,Brand Awareness,8544,192,299.19,8,1014.65
+2023-07-12,TikTok Ads,Retargeting,14833,228,495.66,20,2057.12
+2023-02-26,TikTok Ads,Spring Sale,2589,50,40.22,4,447.98
+2023-03-30,TikTok Ads,New Product Launch,6183,69,53.5,5,320.49
+2023-12-15,Google Ads,Retargeting,29167,165,389.9,9,506.72
+2023-02-25,TikTok Ads,New Product Launch,9498,53,98.96,2,129.38
+2023-01-16,LinkedIn Ads,New Product Launch,45360,1776,1073.43,103,8627.77
+2023-12-01,LinkedIn Ads,Brand Awareness,34338,253,704.56,8,593.74
+2023-11-06,TikTok Ads,Retargeting,35011,1399,1466.15,69,10091.59
+2023-10-25,Facebook Ads,Brand Awareness,38975,812,2170.03,76,5309.16
+2023-09-11,Facebook Ads,Brand Awareness,6731,265,172.99,23,1425.4
+2023-03-16,Facebook Ads,Spring Sale,30770,1119,1947.8,79,4282.77
+2023-11-25,Facebook Ads,Spring Sale,27034,606,1305.16,46,6866.76
+2023-01-23,Facebook Ads,New Product Launch,36146,454,1240.06,27,2298.09
+2023-08-01,TikTok Ads,Brand Awareness,47647,931,683.4,88,7080.97
+2023-09-25,LinkedIn Ads,Spring Sale,24093,925,1742.23,24,3505.79
+2023-07-26,Google Ads,New Product Launch,11363,65,173.03,4,466.83
+2023-03-03,LinkedIn Ads,Spring Sale,4023,36,74.11,3,394.9
+2023-05-16,TikTok Ads,New Product Launch,44801,585,1537.7,46,3170.51
+2023-03-07,Facebook Ads,New Product Launch,42906,1490,4050.81,118,16258.72
+2023-11-02,Facebook Ads,Retargeting,36104,1257,2333.45,59,7850.61
+2023-02-04,Google Ads,New Product Launch,35478,559,349.5,38,1927.55
+2023-10-06,Google Ads,Brand Awareness,27999,491,1414.22,38,3042.47
+2023-09-15,TikTok Ads,Spring Sale,27885,318,433.66,31,1863.21
+2023-04-15,Facebook Ads,Retargeting,28270,210,381.24,9,999.35
+2023-05-07,TikTok Ads,Brand Awareness,45443,810,2272.73,61,8274.98
+2023-03-10,Facebook Ads,Retargeting,16251,619,1010.05,51,4927.2
+2023-09-19,Facebook Ads,New Product Launch,34644,1100,2841.77,23,1671.71
+2023-04-26,Facebook Ads,Spring Sale,18431,555,546.92,26,1747.58
+2023-09-21,Google Ads,Brand Awareness,12522,165,420.71,16,1079.48
+2023-03-04,Facebook Ads,Brand Awareness,29497,992,2202.42,48,6597.64
+2023-10-29,TikTok Ads,Brand Awareness,38916,1089,830.36,80,4521.65
+2023-10-30,LinkedIn Ads,Brand Awareness,41123,969,2128.33,59,4910.98
+2023-02-19,Facebook Ads,Brand Awareness,19981,483,462.5,39,5612.21
+2023-07-21,Facebook Ads,New Product Launch,7120,232,239.19,22,3259.28
+2023-01-22,Facebook Ads,Brand Awareness,27829,860,899.22,25,2979.77
+2023-07-18,TikTok Ads,Spring Sale,16197,471,341.17,36,5037.86
+2023-07-06,Google Ads,Spring Sale,34267,882,1063.96,22,1956.92
+2023-03-28,Google Ads,Brand Awareness,14800,546,505.17,44,2255.07
+2023-02-11,Facebook Ads,Retargeting,41966,1093,2553.83,36,3192.66
+2023-07-17,TikTok Ads,New Product Launch,27257,541,1609.59,45,3457.81
+2023-09-17,LinkedIn Ads,Spring Sale,8383,73,45.45,6,801.93
+2023-06-10,Facebook Ads,Spring Sale,3076,103,206.82,8,563.09
+2023-05-28,TikTok Ads,New Product Launch,2623,73,201.6,6,844.17
+2023-08-27,Facebook Ads,New Product Launch,3563,136,355.71,12,1044.35
+2023-12-20,LinkedIn Ads,Spring Sale,14659,311,255.91,12,691.88
+2023-04-11,LinkedIn Ads,Brand Awareness,4905,74,66.85,1,94.56
+2023-08-21,Google Ads,Retargeting,9355,227,627.31,19,1145.85
+2023-01-11,LinkedIn Ads,Retargeting,30073,622,459.92,34,1955.38
+2023-10-08,Facebook Ads,Brand Awareness,14474,532,1092.44,31,3788.18
+2023-07-22,Google Ads,New Product Launch,45920,1632,4769.79,148,15035.07
+2023-10-16,LinkedIn Ads,Brand Awareness,20452,209,603.34,18,917.94
+2023-12-07,TikTok Ads,Retargeting,20101,654,561.86,46,5303.15
+2023-01-06,Facebook Ads,New Product Launch,8631,173,97.77,6,719.61
+2023-08-27,TikTok Ads,Brand Awareness,8589,176,109.04,17,2333.73
+2023-02-12,Google Ads,Spring Sale,41786,1589,3937.07,76,11388.87
+2023-03-15,TikTok Ads,Spring Sale,8034,161,366.61,10,681.8
+2023-09-12,TikTok Ads,New Product Launch,5359,120,136.05,10,968.28
+2023-12-21,Google Ads,Brand Awareness,26078,1025,2324.27,47,4630.49
+2023-08-08,LinkedIn Ads,New Product Launch,24584,375,984.22,37,3545.58
+2023-04-15,LinkedIn Ads,New Product Launch,11696,109,121.42,8,753.25
+2023-06-18,LinkedIn Ads,New Product Launch,18920,605,625.55,59,6269.94
+2023-03-12,Google Ads,Brand Awareness,36421,903,860.15,57,6374.64
+2023-05-05,Facebook Ads,Brand Awareness,11869,100,211.2,4,482.25
+2023-06-02,Google Ads,Brand Awareness,48265,1544,1909.94,64,4295.37
+2023-05-06,Facebook Ads,Brand Awareness,10497,380,983.6,35,4302.51
+2023-03-27,Facebook Ads,Spring Sale,19665,607,889.68,18,1995.74
+2023-10-02,TikTok Ads,Brand Awareness,18099,568,1179.37,36,4789.6
+2023-07-07,Facebook Ads,New Product Launch,14915,347,535.15,7,784.92
+2023-12-30,TikTok Ads,Brand Awareness,6166,79,131.44,7,1002.55
+2023-07-26,TikTok Ads,Spring Sale,13845,547,612.18,50,4968.89
+2023-08-19,TikTok Ads,Brand Awareness,3554,74,191.4,2,295.84
+2023-05-27,LinkedIn Ads,Brand Awareness,9482,52,85.07,2,124.57
+2023-11-28,Facebook Ads,Retargeting,16054,506,429.61,19,2174.46
+2023-08-13,TikTok Ads,New Product Launch,34729,319,493.53,23,1311.19
+2023-12-17,Google Ads,Brand Awareness,28594,626,1384.06,51,4056.85
+2023-10-21,TikTok Ads,Brand Awareness,5049,108,164.67,9,744.61
+2023-12-31,Facebook Ads,Retargeting,11822,462,248.99,32,1742.86
+2023-11-15,LinkedIn Ads,Spring Sale,7408,283,366.02,14,2095.21
+2023-02-17,Google Ads,Brand Awareness,31062,932,2673.17,72,7314.19
+2023-06-10,Facebook Ads,Spring Sale,42730,510,1431.44,28,1633.48
+2023-11-24,LinkedIn Ads,New Product Launch,43216,1317,1908.77,27,2874.28
+2023-06-22,Facebook Ads,Brand Awareness,16935,328,299.58,16,1678.48
+2023-05-22,LinkedIn Ads,Spring Sale,21612,243,256.25,10,1370.65
+2023-01-22,LinkedIn Ads,New Product Launch,9995,178,315.8,11,974.32
+2023-03-09,LinkedIn Ads,New Product Launch,10239,302,832.33,27,3645.55
+2023-09-26,Google Ads,Retargeting,38701,1394,2127.52,28,3019.87
+2023-06-27,Google Ads,New Product Launch,1727,19,9.82,0,0.0
+2023-12-24,Facebook Ads,Brand Awareness,26358,708,1336.8,38,3968.92
+2023-06-20,Facebook Ads,New Product Launch,13486,194,165.18,8,909.52
+2023-12-21,Facebook Ads,Spring Sale,49020,1278,3323.93,125,13630.4
+2023-06-15,Google Ads,Spring Sale,37723,1186,806.3,82,9508.23
+2023-06-04,TikTok Ads,Brand Awareness,49528,862,1402.59,35,4765.74
+2023-06-30,Facebook Ads,Brand Awareness,19225,548,621.02,12,997.78
+2023-10-03,TikTok Ads,Brand Awareness,40040,659,576.86,21,1082.53
+2023-11-05,LinkedIn Ads,Brand Awareness,14976,363,743.19,16,1879.14
+2023-03-23,Google Ads,Brand Awareness,40569,760,1448.81,24,2002.04
+2023-07-25,LinkedIn Ads,Spring Sale,44695,1755,2516.55,68,6915.24
+2023-01-16,LinkedIn Ads,Spring Sale,6477,233,353.97,20,2869.82
+2023-01-17,TikTok Ads,Retargeting,34975,1287,2586.85,35,3495.52
+2023-03-19,LinkedIn Ads,Retargeting,6841,74,112.44,6,685.91
+2023-01-15,Facebook Ads,Brand Awareness,31598,459,944.89,25,2847.81
+2023-01-09,Google Ads,Spring Sale,18984,525,1083.08,37,4269.05
+2023-09-08,TikTok Ads,Spring Sale,33366,1248,3401.82,111,6184.21
+2023-08-18,Facebook Ads,New Product Launch,47904,660,1089.07,27,3784.14
+2023-03-13,TikTok Ads,New Product Launch,6215,76,39.91,6,838.21
+2023-11-10,LinkedIn Ads,New Product Launch,1906,21,33.94,1,90.45
+2023-06-08,Facebook Ads,Spring Sale,43954,696,658.18,14,1905.01
+2023-10-14,Facebook Ads,New Product Launch,16854,317,372.33,18,1924.34
+2023-01-02,Facebook Ads,Spring Sale,4585,51,136.62,4,429.17
+2023-02-13,Facebook Ads,Spring Sale,31974,550,1473.91,48,2694.39
+2023-09-24,LinkedIn Ads,Brand Awareness,8771,168,390.81,16,1939.5
+2023-02-26,Google Ads,Spring Sale,44840,723,1708.14,21,2653.62
+2023-10-09,TikTok Ads,Brand Awareness,24325,622,596.42,51,5844.16
+2023-02-04,Facebook Ads,New Product Launch,32698,380,1078.31,8,1177.88
+2023-12-20,Google Ads,Retargeting,13591,264,234.77,11,1055.0
+2023-07-25,Facebook Ads,New Product Launch,21263,848,1400.52,36,2846.31
+2023-07-26,Facebook Ads,New Product Launch,39994,553,1465.05,32,2704.63
+2023-08-02,Google Ads,Spring Sale,12361,101,284.31,4,396.57
+2023-11-02,Facebook Ads,New Product Launch,43236,1307,3486.96,103,14683.91
+2023-11-01,TikTok Ads,Brand Awareness,5194,153,380.01,11,1323.06
+2023-12-09,Facebook Ads,Retargeting,37522,1420,1125.71,114,12904.68
+2023-01-16,Facebook Ads,Retargeting,23093,774,2022.92,27,2475.61
+2023-02-07,TikTok Ads,Retargeting,26786,241,396.64,10,1362.73
+2023-09-20,Facebook Ads,Retargeting,25869,985,2231.09,41,2513.19
+2023-04-30,LinkedIn Ads,Retargeting,33160,635,1415.51,46,5981.29
+2023-08-18,LinkedIn Ads,Brand Awareness,49535,697,634.24,39,5417.07
+2023-05-12,Google Ads,Brand Awareness,28162,260,735.37,14,925.51
+2023-03-17,LinkedIn Ads,Retargeting,40817,1321,1690.6,119,9129.09
+2023-02-05,Facebook Ads,Retargeting,2671,92,262.4,2,287.14
+2023-10-04,TikTok Ads,Brand Awareness,38768,757,1049.19,52,4737.66
+2023-12-29,Google Ads,New Product Launch,16541,167,231.11,13,790.29
+2023-02-13,TikTok Ads,Spring Sale,38898,887,834.37,24,2103.87
+2023-03-04,TikTok Ads,Retargeting,7004,224,349.53,15,1205.03
+2023-04-28,Google Ads,Brand Awareness,35810,1255,922.61,102,10916.65
+2023-01-22,Google Ads,New Product Launch,10772,259,675.09,19,2130.76
+2023-04-17,LinkedIn Ads,Spring Sale,31513,954,2388.48,30,2557.09
+2023-06-25,Facebook Ads,Spring Sale,49971,728,1789.31,27,2051.73
+2023-07-02,TikTok Ads,New Product Launch,31242,985,1970.27,30,3816.2
+2023-01-05,TikTok Ads,Retargeting,16078,561,741.17,44,5451.7
+2023-03-23,Google Ads,Retargeting,8983,97,254.92,5,452.8
+2023-12-15,Google Ads,New Product Launch,28581,150,268.59,11,676.8
+2023-01-29,Facebook Ads,Brand Awareness,24375,803,1573.81,52,2661.66
+2023-05-09,Google Ads,Brand Awareness,2559,94,273.82,3,232.04
+2023-10-04,Google Ads,Retargeting,2872,95,114.59,4,321.79
+2023-08-11,Google Ads,Retargeting,12378,207,284.81,19,1870.71
+2023-01-28,TikTok Ads,Retargeting,34461,819,2066.36,27,2270.78
+2023-04-15,LinkedIn Ads,Retargeting,37576,403,1117.77,30,4426.87
+2023-04-29,LinkedIn Ads,Retargeting,1415,43,22.91,3,240.65
+2023-05-08,LinkedIn Ads,Brand Awareness,23576,252,699.6,23,1489.44
+2023-04-12,Facebook Ads,New Product Launch,23516,318,435.55,10,835.46
+2023-09-27,LinkedIn Ads,New Product Launch,39797,287,725.57,23,2774.43
+2023-08-04,TikTok Ads,Brand Awareness,49304,1360,1512.94,79,4111.87
+2023-02-02,LinkedIn Ads,Retargeting,45635,740,492.45,57,5887.62
+2023-03-27,Google Ads,Retargeting,5871,169,204.1,13,855.8
+2023-07-01,Google Ads,Brand Awareness,14447,166,441.43,8,1047.97
+2023-08-13,Facebook Ads,New Product Launch,9762,59,126.99,1,63.36
+2023-05-16,LinkedIn Ads,Brand Awareness,36519,1063,2880.55,88,8943.45
+2023-10-03,LinkedIn Ads,Retargeting,14311,111,159.7,7,452.29
+2023-08-10,LinkedIn Ads,Retargeting,7681,72,126.83,4,537.6
+2023-08-19,TikTok Ads,Retargeting,2921,41,93.06,4,412.15
+2023-12-24,Google Ads,Brand Awareness,5431,36,73.85,2,267.64
+2023-10-17,TikTok Ads,New Product Launch,38285,1077,1121.27,49,3839.23
+2023-03-12,TikTok Ads,Brand Awareness,8108,204,400.47,9,580.29
+2023-04-04,LinkedIn Ads,New Product Launch,13925,414,829.77,29,1830.72
+2023-05-31,Facebook Ads,Spring Sale,30235,891,969.4,56,2896.14
+2023-01-14,Facebook Ads,Retargeting,2772,75,53.79,1,111.67
+2023-07-19,Facebook Ads,Retargeting,35833,852,1357.3,24,1708.1
+2023-03-15,Google Ads,Brand Awareness,26619,339,198.57,18,2162.96
+2023-01-04,Google Ads,Retargeting,38630,794,1086.94,68,6146.82
+2023-02-20,Google Ads,Spring Sale,15075,580,1339.48,25,2164.85
+2023-10-27,Google Ads,Spring Sale,48115,1463,3488.61,102,13589.16
+2023-02-03,Facebook Ads,Brand Awareness,6592,131,317.13,8,585.66
+2023-01-18,TikTok Ads,Retargeting,47986,1624,2838.09,157,18877.34
+2023-04-08,Google Ads,New Product Launch,7783,175,230.08,3,297.09
+2023-05-14,Facebook Ads,Spring Sale,45196,414,651.01,15,1701.03
+2023-07-05,Google Ads,New Product Launch,1047,34,33.95,1,87.59
+2023-12-21,TikTok Ads,Brand Awareness,33820,334,880.73,29,1508.17
+2023-10-18,Facebook Ads,Retargeting,27358,981,2873.54,52,3577.93
+2023-10-03,TikTok Ads,Brand Awareness,22049,795,1194.98,21,1518.71
+2023-07-28,Google Ads,Brand Awareness,6918,182,254.56,4,392.8
+2023-09-08,TikTok Ads,Spring Sale,39114,1259,2260.09,48,5297.89
+2023-03-16,Google Ads,Brand Awareness,20118,574,1391.85,21,1412.68
+2023-03-07,Google Ads,New Product Launch,32464,217,280.99,5,728.9
+2023-04-09,Google Ads,Spring Sale,46958,1742,1914.12,69,3653.62
+2023-12-10,LinkedIn Ads,New Product Launch,36924,228,184.91,9,1195.19
+2023-06-09,LinkedIn Ads,Spring Sale,47529,495,1353.03,47,3651.88
+2023-06-08,Facebook Ads,Spring Sale,14317,325,472.28,26,3668.08
+2023-02-01,Facebook Ads,New Product Launch,22453,793,1970.29,58,3673.77
+2023-01-21,LinkedIn Ads,Spring Sale,7067,174,269.93,6,644.11
+2023-08-23,Facebook Ads,New Product Launch,41520,219,574.87,8,613.0
+2023-02-22,LinkedIn Ads,Brand Awareness,21413,510,985.29,22,2127.86
+2023-12-02,Facebook Ads,Retargeting,45797,1409,2125.86,107,6552.47
+2023-12-25,Facebook Ads,Spring Sale,20201,642,1846.2,37,5474.29
+2023-11-10,Google Ads,Retargeting,16890,90,266.66,4,302.88
+2023-12-04,Google Ads,New Product Launch,31179,1209,1377.92,96,12568.32
+2023-05-15,Facebook Ads,New Product Launch,8907,181,194.78,6,540.35
+2023-06-23,LinkedIn Ads,Brand Awareness,22907,322,683.64,26,2615.37
+2023-10-20,Facebook Ads,Retargeting,49122,1913,1659.37,183,10413.53
+2023-05-09,Google Ads,New Product Launch,21205,610,411.17,18,1043.8
+2023-07-30,Facebook Ads,Retargeting,27959,304,678.24,19,2810.54
+2023-11-28,LinkedIn Ads,Brand Awareness,14552,239,382.85,23,1672.08
+2023-01-13,Google Ads,Spring Sale,23065,804,821.59,31,3614.86
+2023-05-06,LinkedIn Ads,New Product Launch,18082,108,271.52,3,154.46
+2023-02-26,TikTok Ads,Retargeting,13439,74,135.32,1,101.09
+2023-03-02,LinkedIn Ads,Spring Sale,16497,373,606.42,19,1421.81
+2023-02-15,Facebook Ads,Retargeting,25881,807,2154.77,78,4782.05
+2023-12-06,TikTok Ads,Retargeting,33703,1298,1616.16,55,6984.09
+2023-07-16,Google Ads,Spring Sale,37998,1393,2966.49,127,7263.48
+2023-12-19,TikTok Ads,Spring Sale,49808,1321,2503.49,52,3363.15
+2023-08-21,Google Ads,Spring Sale,32466,1150,2160.13,34,3637.28
+2023-11-14,LinkedIn Ads,Brand Awareness,43530,1433,959.35,55,7085.42
+2023-11-25,Google Ads,Retargeting,34491,1264,3549.7,33,3324.47
+2023-07-29,LinkedIn Ads,New Product Launch,30928,505,960.69,26,3756.5
+2023-01-28,TikTok Ads,Spring Sale,29451,583,767.9,47,2356.53
+2023-01-02,TikTok Ads,Brand Awareness,49372,1965,2632.5,127,7287.14
+2023-04-23,LinkedIn Ads,Spring Sale,9687,86,210.77,3,157.95
+2023-09-23,LinkedIn Ads,New Product Launch,43183,316,613.02,13,1853.81
+2023-02-28,Google Ads,Brand Awareness,8217,294,704.77,21,1259.76
+2023-01-20,TikTok Ads,Retargeting,37856,1015,2055.68,31,1718.64
+2023-05-04,Facebook Ads,Spring Sale,23474,618,958.69,29,3994.24
+2023-02-19,Facebook Ads,Retargeting,38578,955,2425.01,45,4311.55
+2023-09-04,LinkedIn Ads,Brand Awareness,19615,342,806.14,7,713.56
+2023-06-07,LinkedIn Ads,New Product Launch,34362,1108,2781.57,52,6722.32
+2023-01-27,Facebook Ads,Brand Awareness,35949,545,378.74,30,2903.63
+2023-09-21,Facebook Ads,Retargeting,23346,453,776.37,42,5982.6
+2023-05-13,Facebook Ads,New Product Launch,14628,305,873.69,24,1945.9
+2023-11-16,TikTok Ads,New Product Launch,42401,1243,3262.93,107,8575.32
+2023-11-23,TikTok Ads,Retargeting,20942,235,382.77,12,611.46
+2023-09-18,Facebook Ads,New Product Launch,15533,158,130.74,8,669.04
+2023-03-23,Google Ads,Retargeting,12526,364,650.58,20,2306.5
+2023-03-22,TikTok Ads,New Product Launch,7406,202,405.74,13,1299.77
+2023-03-28,TikTok Ads,Retargeting,11018,117,126.16,4,384.36
+2023-07-04,LinkedIn Ads,Retargeting,29814,649,448.06,19,1154.19
+2023-10-28,TikTok Ads,Retargeting,48837,372,901.64,23,3433.55
+2024-01-01,Facebook Ads,Spring Sale,37652,824,611.59,49,7063.81
+2023-07-22,TikTok Ads,Brand Awareness,44572,1753,1741.87,134,8210.76
+2023-01-11,Google Ads,Spring Sale,3936,126,367.79,12,1733.95
+2023-02-10,LinkedIn Ads,New Product Launch,18728,252,142.76,24,1881.9
+2023-09-08,Google Ads,New Product Launch,18213,414,510.43,26,3276.14
+2023-04-15,Facebook Ads,New Product Launch,9806,387,265.39,18,1367.71
+2023-07-07,TikTok Ads,New Product Launch,31612,1147,1536.84,53,7927.08
+2023-08-03,Google Ads,Spring Sale,17402,398,620.68,11,602.95
+2023-10-25,Facebook Ads,New Product Launch,5862,93,108.26,8,1033.83
+2023-07-02,Google Ads,Retargeting,5748,86,188.76,4,449.4
+2023-03-12,LinkedIn Ads,Brand Awareness,10799,94,123.41,4,468.08
+2023-07-27,Facebook Ads,Spring Sale,35031,1126,3055.92,74,3824.88
+2023-03-18,LinkedIn Ads,Retargeting,15499,504,1506.08,28,2012.14
+2023-05-14,TikTok Ads,Retargeting,43835,1129,1280.62,109,9141.66
+2023-11-16,Facebook Ads,Brand Awareness,40366,1335,3872.41,79,6492.92
+2023-01-30,TikTok Ads,Spring Sale,4799,140,215.42,12,844.51
+2023-05-02,LinkedIn Ads,Spring Sale,21080,842,2309.27,62,8061.78
+2023-04-26,LinkedIn Ads,New Product Launch,45019,358,669.3,12,1056.16
+2023-06-19,Facebook Ads,Retargeting,46307,1707,3211.29,156,18330.79
+2023-12-21,TikTok Ads,Spring Sale,14600,201,530.77,18,1870.53
+2023-07-25,TikTok Ads,Retargeting,32279,634,680.19,38,4966.08
+2023-01-28,LinkedIn Ads,Brand Awareness,4026,84,76.17,6,762.08
+2023-10-22,Facebook Ads,Spring Sale,49649,1486,1807.62,81,5842.3
+2023-12-05,Google Ads,Retargeting,33197,427,492.61,41,3265.29
+2023-02-15,TikTok Ads,Retargeting,29158,1008,2176.18,79,10064.38
+2023-02-20,Google Ads,Spring Sale,38992,785,2132.22,61,5998.95
+2023-03-28,Google Ads,Brand Awareness,10367,138,114.22,8,1106.88
+2023-04-04,LinkedIn Ads,Spring Sale,28557,187,121.77,17,2029.46
+2023-02-01,Google Ads,Brand Awareness,9531,58,160.61,3,258.58
+2023-11-27,Facebook Ads,Spring Sale,9813,67,135.35,4,433.92
+2023-03-06,TikTok Ads,Retargeting,35854,1111,1674.92,64,4193.69
+2023-02-11,LinkedIn Ads,Retargeting,38350,1375,3632.27,49,6610.88
+2023-09-25,Google Ads,Retargeting,35364,522,1437.53,20,2186.58
+2023-08-17,Facebook Ads,Brand Awareness,45207,982,2125.09,58,6639.45
+2023-02-03,LinkedIn Ads,Brand Awareness,27767,565,1068.6,29,2538.58
+2023-06-27,LinkedIn Ads,Brand Awareness,18152,139,325.22,8,978.95
+2023-10-18,Google Ads,Brand Awareness,33300,1062,2902.36,23,2797.19
+2023-09-25,Facebook Ads,New Product Launch,10666,123,151.65,5,298.3
+2023-03-25,Facebook Ads,Brand Awareness,11929,111,309.14,8,897.37
+2023-10-24,Google Ads,Spring Sale,24849,705,1293.06,27,1463.89
+2023-11-14,TikTok Ads,Spring Sale,23155,222,150.4,20,1624.11
+2023-09-23,Google Ads,Retargeting,32830,207,163.58,14,2044.96
+2023-04-02,Google Ads,Spring Sale,19849,283,591.41,13,854.41
+2023-02-28,TikTok Ads,Brand Awareness,11953,261,183.05,21,2208.72
+2023-10-09,Facebook Ads,New Product Launch,34652,274,335.84,8,444.12
+2023-03-21,Google Ads,Spring Sale,45777,497,533.35,43,5092.56
+2023-03-04,Google Ads,Brand Awareness,14792,267,397.28,7,907.98
+2023-12-11,Facebook Ads,Spring Sale,8174,177,362.95,8,712.62
+2023-04-13,LinkedIn Ads,Spring Sale,24806,239,696.44,19,1093.13
+2023-11-09,Google Ads,New Product Launch,33679,1320,2649.16,131,15882.19
+2023-05-26,TikTok Ads,Retargeting,30290,854,1629.2,83,7229.53
+2023-02-26,Google Ads,Spring Sale,16676,154,338.72,4,522.49
+2023-01-30,Facebook Ads,Brand Awareness,22085,403,568.63,21,1814.13
+2023-12-21,LinkedIn Ads,Brand Awareness,2115,61,96.85,1,136.19
+2023-11-08,LinkedIn Ads,Spring Sale,37323,233,332.21,17,1335.77
+2023-01-24,Google Ads,New Product Launch,17049,266,401.31,10,1494.05
+2023-10-23,LinkedIn Ads,New Product Launch,3376,109,190.62,6,322.03
+2023-12-30,Google Ads,New Product Launch,8914,337,453.1,16,1684.2
+2023-05-28,Google Ads,Brand Awareness,12981,130,261.89,3,419.56
+2023-11-09,Google Ads,New Product Launch,31484,206,550.55,8,536.16
+2023-03-21,Facebook Ads,New Product Launch,41494,1150,3148.46,114,6797.28
+2023-10-19,TikTok Ads,Spring Sale,17164,506,1379.37,32,3388.33
+2023-10-15,LinkedIn Ads,Spring Sale,48982,1316,3689.98,37,2869.4
+2023-04-02,Google Ads,Retargeting,21431,272,266.97,21,1871.58
+2023-05-13,Facebook Ads,Spring Sale,5140,187,455.85,11,1603.84
+2023-12-04,LinkedIn Ads,New Product Launch,5550,184,287.22,6,488.56
+2023-03-25,TikTok Ads,New Product Launch,25849,282,365.19,25,3178.32
+2023-04-17,Facebook Ads,Spring Sale,22614,680,1364.4,17,1895.86
+2023-01-13,Facebook Ads,Spring Sale,10762,336,750.96,20,2396.22
+2023-08-27,LinkedIn Ads,Brand Awareness,34287,1060,3122.84,34,3094.39
+2023-09-14,TikTok Ads,Brand Awareness,36390,1434,3625.6,109,10619.48
+2023-11-18,TikTok Ads,Brand Awareness,20751,558,605.52,14,1769.3
+2023-11-02,TikTok Ads,Retargeting,25776,697,2050.64,46,6444.48
+2023-02-09,LinkedIn Ads,Brand Awareness,13757,492,1253.79,46,6879.88
+2023-08-25,Google Ads,Brand Awareness,34372,656,1768.08,34,4167.65
+2023-03-28,TikTok Ads,Retargeting,41157,1500,1845.01,99,8606.26
+2023-08-25,Google Ads,Brand Awareness,13810,152,107.47,5,731.92
+2023-07-24,TikTok Ads,Retargeting,31245,514,898.3,34,4405.81
+2023-07-12,Facebook Ads,New Product Launch,34930,733,655.65,58,4086.08
+2023-05-26,Google Ads,Spring Sale,30142,950,2069.12,46,3481.04
+2023-10-28,TikTok Ads,Spring Sale,14176,259,279.4,14,1973.93
+2023-08-28,LinkedIn Ads,Brand Awareness,3852,34,79.7,1,56.78
+2023-03-02,TikTok Ads,New Product Launch,3052,49,66.01,3,394.08
+2023-12-06,Google Ads,New Product Launch,11220,249,642.14,5,681.99
+2023-08-14,Google Ads,Retargeting,46513,933,2156.28,41,2429.65
+2023-12-12,Facebook Ads,New Product Launch,8151,79,221.84,7,765.85
+2023-02-12,TikTok Ads,Retargeting,24898,687,1523.51,39,5696.25
+2023-05-10,Facebook Ads,New Product Launch,30206,1166,1185.57,58,6411.73
+2023-08-02,Facebook Ads,Retargeting,24238,629,904.0,27,1783.05
+2023-03-01,Facebook Ads,Retargeting,2928,55,72.1,1,56.49
+2023-12-04,TikTok Ads,Retargeting,26033,555,947.54,37,2177.27
+2023-07-24,TikTok Ads,Spring Sale,36961,1436,2826.65,72,8508.91
+2023-11-03,TikTok Ads,Brand Awareness,34779,1337,3050.69,54,4715.22
+2023-03-12,LinkedIn Ads,Spring Sale,33441,311,530.76,22,1697.46
+2023-09-09,TikTok Ads,Retargeting,28919,856,2009.72,18,2084.55
+2023-04-14,Google Ads,Retargeting,17608,648,1783.49,23,1847.44
+2023-02-17,TikTok Ads,Brand Awareness,11273,334,301.39,23,2106.66
+2023-09-03,Facebook Ads,Retargeting,48971,837,1879.75,28,3202.41
+2023-03-27,Google Ads,Retargeting,40755,1425,2950.41,54,5770.77
+2023-08-19,Facebook Ads,Retargeting,30553,556,727.57,51,7475.97
+2023-10-03,Google Ads,New Product Launch,16281,478,483.26,15,1432.27
+2023-12-10,Google Ads,Spring Sale,5332,173,136.18,15,1046.0
+2023-09-01,Google Ads,Spring Sale,6406,111,273.94,8,861.23
+2023-09-24,Facebook Ads,Brand Awareness,6626,142,133.54,10,908.69
+2023-06-18,Facebook Ads,Spring Sale,33980,541,1247.94,34,1723.98
+2023-06-05,TikTok Ads,Spring Sale,47423,781,476.29,20,2904.36
+2023-05-15,Facebook Ads,Retargeting,34079,1350,757.6,91,7050.41
+2023-08-24,LinkedIn Ads,Retargeting,23970,262,777.59,17,2341.98
+2023-10-09,TikTok Ads,Spring Sale,14011,100,53.67,8,1093.42
+2023-10-30,Google Ads,New Product Launch,17872,264,428.89,15,1084.59
+2023-08-16,Facebook Ads,Brand Awareness,34832,909,1557.82,83,5144.84
+2023-09-18,TikTok Ads,Brand Awareness,41347,573,1685.0,36,5197.89
+2023-02-27,LinkedIn Ads,Brand Awareness,47906,618,1325.78,57,6196.12
+2023-10-01,LinkedIn Ads,Brand Awareness,3198,22,27.44,0,0.0
+2023-05-08,Google Ads,Retargeting,36758,746,2150.36,34,2551.09
+2023-04-05,Google Ads,Brand Awareness,12518,269,698.99,16,2211.8
+2023-07-25,TikTok Ads,Brand Awareness,14522,509,689.7,49,3926.27
+2023-05-28,Google Ads,Spring Sale,26995,1010,651.25,42,2975.95
+2023-07-10,LinkedIn Ads,Brand Awareness,34020,706,935.34,65,5792.84
+2023-10-11,TikTok Ads,Spring Sale,16440,96,48.44,3,259.59
+2023-02-19,Google Ads,Brand Awareness,41862,879,1811.11,78,5117.42
+2023-09-10,Facebook Ads,Spring Sale,17443,135,294.31,11,1252.26
+2023-05-23,LinkedIn Ads,Retargeting,4638,92,181.25,7,961.2
+2023-04-09,TikTok Ads,Brand Awareness,17506,643,517.7,22,2770.24
+2023-05-29,Google Ads,Retargeting,5086,155,381.21,6,809.61
+2023-10-24,LinkedIn Ads,Brand Awareness,33684,1258,1108.22,56,4260.48
+2023-11-23,TikTok Ads,Brand Awareness,31229,182,294.88,6,763.35
+2023-10-12,Facebook Ads,Brand Awareness,26005,232,521.08,9,1054.65
+2023-05-23,LinkedIn Ads,Brand Awareness,26244,791,721.28,51,4446.07
+2023-04-18,LinkedIn Ads,Brand Awareness,41521,282,183.89,19,2557.31
+2023-03-03,TikTok Ads,Retargeting,49503,359,725.05,13,1890.83
+2023-04-30,Google Ads,Brand Awareness,44133,1294,901.65,80,4619.74
+2023-05-17,Facebook Ads,Spring Sale,40257,649,560.87,48,3019.07
+2023-07-30,LinkedIn Ads,Spring Sale,4000,126,324.23,6,556.83
+2023-10-02,TikTok Ads,New Product Launch,43164,729,808.09,72,9078.86
+2023-07-16,TikTok Ads,Spring Sale,45203,1781,4646.83,119,7185.09
+2023-01-18,Google Ads,Brand Awareness,12095,230,208.77,13,1803.23
+2023-08-28,Google Ads,New Product Launch,35821,1217,2220.06,70,4485.9
+2023-11-23,Facebook Ads,New Product Launch,35955,708,399.2,36,5234.46
+2023-02-25,TikTok Ads,Spring Sale,44025,1714,3593.05,66,3396.61
+2023-01-14,LinkedIn Ads,Brand Awareness,23902,774,415.07,25,2824.55
+2023-07-11,LinkedIn Ads,Spring Sale,33735,594,966.68,53,7398.6
+2023-03-16,Google Ads,Spring Sale,5313,123,232.52,11,1513.05
+2023-07-02,LinkedIn Ads,New Product Launch,10723,349,369.99,14,979.69
+2023-07-16,TikTok Ads,New Product Launch,2163,40,110.96,1,145.68
+2023-12-04,Google Ads,Brand Awareness,40497,1560,3106.5,113,10188.03
+2023-12-28,Facebook Ads,Spring Sale,21123,710,1379.95,42,4032.55
+2023-07-05,TikTok Ads,Retargeting,36958,1061,1712.43,83,8699.34
+2023-10-04,TikTok Ads,New Product Launch,49922,1662,3757.51,107,11100.2
+2023-11-01,TikTok Ads,Retargeting,38140,1076,3018.65,74,8463.19
+2023-04-05,Facebook Ads,New Product Launch,21502,515,1276.43,39,5708.65
+2023-07-10,TikTok Ads,Spring Sale,27641,514,1435.28,45,6270.02
+2023-02-27,TikTok Ads,Retargeting,29542,772,1728.77,71,9666.59
+2023-11-11,TikTok Ads,Brand Awareness,29599,889,1177.46,27,3428.69
+2023-03-29,Google Ads,Brand Awareness,37014,1272,766.85,101,6177.59
+2023-06-11,TikTok Ads,Retargeting,31992,978,928.19,71,6022.53
+2023-12-14,Facebook Ads,Retargeting,15325,175,231.55,6,610.64
+2023-09-30,Google Ads,New Product Launch,18279,494,1272.16,27,2843.47
+2023-06-17,Google Ads,Spring Sale,5026,98,166.22,3,440.57
+2023-12-31,LinkedIn Ads,Spring Sale,9988,146,187.44,5,685.2
+2023-09-14,TikTok Ads,Spring Sale,16269,497,1087.26,44,5418.71
+2023-01-12,Facebook Ads,New Product Launch,37189,707,1813.7,58,6104.07
+2023-09-13,Google Ads,Spring Sale,40163,522,1215.98,11,1614.02
+2023-11-06,LinkedIn Ads,New Product Launch,6372,132,89.59,5,276.5
+2023-08-25,LinkedIn Ads,New Product Launch,37430,870,1888.94,75,9978.41
+2023-08-08,TikTok Ads,New Product Launch,36679,568,1322.07,21,1787.24
+2023-09-20,TikTok Ads,New Product Launch,23121,879,2512.88,18,968.26
+2023-11-02,LinkedIn Ads,New Product Launch,33204,974,997.17,29,3818.92
+2023-01-16,LinkedIn Ads,Retargeting,30554,521,1531.87,24,1450.64
+2023-07-07,Google Ads,Brand Awareness,16987,341,526.07,29,2180.31
+2023-01-22,Facebook Ads,Retargeting,34897,785,1146.67,42,2949.14
+2023-05-22,Google Ads,Retargeting,27604,754,593.38,27,1680.0
+2023-10-25,Google Ads,Spring Sale,36268,912,2588.51,49,7111.3
+2024-01-01,Facebook Ads,Brand Awareness,22884,373,879.42,23,2999.1
+2023-01-12,LinkedIn Ads,Spring Sale,13746,148,119.32,10,1108.26
+2023-02-10,Google Ads,Spring Sale,24132,166,294.06,8,701.93
+2023-09-13,LinkedIn Ads,Spring Sale,49135,1052,2901.34,45,3358.44
+2023-12-15,TikTok Ads,New Product Launch,3849,114,311.23,10,515.51
+2023-01-31,Google Ads,Brand Awareness,15955,226,432.39,10,1372.14
+2023-09-28,Google Ads,Brand Awareness,26970,817,2378.07,67,4541.78
+2023-10-17,Facebook Ads,New Product Launch,20839,283,156.66,14,1978.41
+2023-04-07,LinkedIn Ads,Spring Sale,21527,679,734.6,42,2420.17
+2023-09-10,Facebook Ads,New Product Launch,11765,242,136.06,13,684.5
+2023-09-08,Google Ads,Retargeting,36638,306,805.37,9,703.11
+2023-02-04,Google Ads,New Product Launch,35336,1000,2238.67,74,4216.15
+2023-10-05,TikTok Ads,Spring Sale,31376,870,2395.32,29,2852.11
+2023-03-13,TikTok Ads,New Product Launch,36121,996,1757.08,95,8978.82
+2023-05-25,Google Ads,New Product Launch,5714,123,224.83,3,412.82
+2023-09-26,LinkedIn Ads,Brand Awareness,32201,195,172.86,11,1277.53
+2023-08-04,LinkedIn Ads,Brand Awareness,8251,197,177.02,5,627.32
+2023-05-31,TikTok Ads,Retargeting,2720,103,227.04,5,585.42
+2023-01-19,TikTok Ads,Brand Awareness,31802,647,1086.99,22,1370.82
+2023-01-20,LinkedIn Ads,New Product Launch,2658,87,212.73,5,687.51
+2023-05-27,Google Ads,Spring Sale,24717,441,578.06,34,2215.42
+2023-12-09,LinkedIn Ads,Brand Awareness,28808,318,624.32,30,2378.72
+2023-04-21,Facebook Ads,Brand Awareness,26412,812,1184.91,48,3306.39
+2023-07-17,Google Ads,New Product Launch,45602,280,351.42,7,903.7
+2023-12-21,Google Ads,Spring Sale,25821,1012,1845.18,86,11619.8
+2023-08-04,TikTok Ads,Spring Sale,10271,358,442.22,21,1577.97
+2023-06-09,TikTok Ads,Spring Sale,35325,227,331.91,12,897.09
+2023-04-26,LinkedIn Ads,Brand Awareness,31956,563,870.85,23,2424.43
+2023-02-26,LinkedIn Ads,Spring Sale,5047,119,134.84,10,1154.26
+2023-04-21,Google Ads,Spring Sale,3730,110,292.35,6,820.04
+2023-05-28,Facebook Ads,New Product Launch,46421,1158,1413.13,108,15154.91
+2023-08-17,LinkedIn Ads,Brand Awareness,15651,134,357.23,11,1074.21
+2023-02-20,Google Ads,Spring Sale,22739,528,809.56,11,1162.45
+2023-09-17,Google Ads,New Product Launch,6218,183,392.51,9,828.38
+2023-04-16,TikTok Ads,New Product Launch,25284,204,598.97,18,1851.26
+2023-03-07,Google Ads,Brand Awareness,37741,362,1068.55,33,2342.65
+2023-04-06,Facebook Ads,Spring Sale,42454,1561,4329.21,110,6926.62
+2023-12-04,LinkedIn Ads,New Product Launch,41995,927,2666.0,92,7458.9
+2023-01-13,Facebook Ads,Retargeting,16594,423,509.41,31,1775.98
+2023-05-12,Facebook Ads,Retargeting,11165,205,113.83,13,1403.68
+2023-08-07,Google Ads,New Product Launch,17768,435,554.4,36,4659.71
+2023-02-09,Google Ads,Spring Sale,44254,466,1341.26,34,4705.13
+2023-12-29,Facebook Ads,Brand Awareness,44147,1382,2466.61,52,3803.72
+2023-02-04,TikTok Ads,Brand Awareness,4690,133,202.68,13,1281.9
+2023-06-11,LinkedIn Ads,New Product Launch,13636,434,756.52,19,2628.78
+2023-08-06,TikTok Ads,New Product Launch,28094,156,227.48,12,1377.47
+2023-12-24,TikTok Ads,New Product Launch,31319,417,1226.87,30,3078.12
+2023-09-28,Google Ads,Spring Sale,19377,447,895.85,35,2696.99
+2023-08-18,Google Ads,Brand Awareness,7685,147,314.38,8,809.72
+2023-07-30,Facebook Ads,Retargeting,21166,206,432.34,20,1787.37
+2023-08-31,Facebook Ads,Retargeting,5092,200,476.8,9,1185.28
+2023-01-28,Google Ads,New Product Launch,26793,293,780.18,12,1378.35
+2023-06-14,LinkedIn Ads,Retargeting,44587,746,2185.69,44,4735.6
+2023-02-01,Google Ads,Spring Sale,27835,1097,2633.14,37,4455.18
+2023-07-02,Google Ads,Brand Awareness,7196,227,224.29,11,640.92
+2023-09-24,LinkedIn Ads,Brand Awareness,6483,89,261.85,2,130.92
+2023-12-18,TikTok Ads,Retargeting,37995,955,1624.18,27,2100.17
+2023-12-21,LinkedIn Ads,Retargeting,19592,158,339.72,11,773.66
+2023-07-02,TikTok Ads,Spring Sale,40851,1595,3825.78,145,21133.81
+2023-03-06,Facebook Ads,Retargeting,9123,200,260.19,10,667.46
+2023-11-21,Google Ads,New Product Launch,5919,36,70.08,2,183.34
+2023-03-13,TikTok Ads,Retargeting,13506,454,787.04,9,545.7
+2023-07-04,LinkedIn Ads,Spring Sale,5496,76,87.05,2,202.38
+2023-07-02,TikTok Ads,Retargeting,38683,671,837.38,48,4055.08
+2023-09-24,Google Ads,New Product Launch,34127,394,242.82,32,4179.27
+2023-04-24,Facebook Ads,Brand Awareness,49579,1549,4275.49,58,5924.56
+2023-05-15,Google Ads,Spring Sale,49665,1132,2841.4,82,7933.47
+2023-11-06,TikTok Ads,Spring Sale,27153,923,628.26,22,2494.13
+2023-09-29,Facebook Ads,New Product Launch,10535,300,218.91,25,2479.66
+2023-06-05,Facebook Ads,Brand Awareness,11742,421,641.9,9,773.92
+2023-04-09,LinkedIn Ads,Brand Awareness,46011,1366,3598.53,125,8135.57
+2023-12-07,Facebook Ads,Brand Awareness,22211,366,391.44,27,1770.88
+2023-04-25,LinkedIn Ads,Spring Sale,47586,1765,2419.64,173,24866.0
+2023-10-24,TikTok Ads,Brand Awareness,47137,994,2388.01,47,3229.45
+2023-05-14,TikTok Ads,New Product Launch,47390,1217,1014.99,89,8983.65
+2023-10-23,Google Ads,Spring Sale,21470,282,767.72,19,1436.52
+2023-02-14,LinkedIn Ads,Retargeting,49853,443,1105.57,24,3224.72
+2023-11-04,Facebook Ads,Brand Awareness,9717,214,428.71,5,505.48
+2023-09-12,Facebook Ads,Spring Sale,37260,372,1058.35,10,1106.91
+2023-01-20,Facebook Ads,Brand Awareness,6362,240,224.49,23,2893.64
+2023-09-08,Facebook Ads,Retargeting,43640,426,1252.76,21,1461.79
+2023-08-27,TikTok Ads,Brand Awareness,14906,224,329.36,19,1722.06
+2023-12-29,Facebook Ads,New Product Launch,34663,721,1594.46,31,1729.28
+2023-10-31,Google Ads,Retargeting,42169,436,450.74,26,2058.89
+2023-10-17,LinkedIn Ads,Spring Sale,32570,1225,1810.72,121,8305.49
+2023-12-21,TikTok Ads,Spring Sale,46874,1778,1968.44,57,3966.43
+2023-04-26,Facebook Ads,Brand Awareness,9972,367,580.25,22,2628.17
+2023-08-30,TikTok Ads,Brand Awareness,24748,608,774.51,17,2176.61
+2023-03-28,Google Ads,New Product Launch,35500,731,1057.11,49,5863.53
+2023-02-15,TikTok Ads,New Product Launch,35917,1061,2012.76,72,10229.93
+2023-12-18,Facebook Ads,Brand Awareness,6149,128,206.41,5,366.66
+2023-02-23,Google Ads,Spring Sale,6102,204,408.9,6,717.9
+2023-11-23,TikTok Ads,Retargeting,39072,721,863.24,64,4865.44
+2023-05-09,TikTok Ads,Spring Sale,20131,803,412.3,51,6660.31
+2023-02-15,LinkedIn Ads,New Product Launch,32197,1282,728.49,39,2639.7
+2023-03-14,Facebook Ads,Spring Sale,41844,821,2303.35,38,3280.97
+2023-05-11,Facebook Ads,Spring Sale,18666,351,977.87,34,2551.13
+2023-12-30,Facebook Ads,Spring Sale,30885,244,508.52,12,1243.41
+2023-09-23,Facebook Ads,Spring Sale,49716,888,782.27,77,5691.41
+2023-08-26,Google Ads,Retargeting,45478,1657,1162.04,33,3009.52
+2023-06-26,Google Ads,Retargeting,2704,48,118.87,4,263.92
+2023-06-14,Facebook Ads,New Product Launch,16740,167,467.97,14,1899.92
+2023-05-14,TikTok Ads,New Product Launch,20442,238,653.86,23,2109.43
+2023-03-14,TikTok Ads,Spring Sale,23948,532,1497.68,27,2191.19
+2023-09-21,TikTok Ads,New Product Launch,47529,321,872.84,25,1493.61
+2023-09-06,TikTok Ads,Brand Awareness,47737,1447,762.47,78,5480.17
+2023-02-26,LinkedIn Ads,Spring Sale,43733,650,642.32,33,4349.46
+2023-07-01,LinkedIn Ads,New Product Launch,6506,221,299.28,6,459.79
+2023-04-11,Google Ads,Retargeting,22312,244,679.05,12,1619.73
+2023-10-14,LinkedIn Ads,Retargeting,30302,202,394.99,6,593.87
+2023-09-13,LinkedIn Ads,Spring Sale,37663,897,1591.21,89,5265.28
+2023-09-21,Facebook Ads,New Product Launch,34346,477,904.96,43,2536.52
+2023-04-14,Facebook Ads,Spring Sale,23239,532,1595.97,47,5969.29
+2023-04-16,TikTok Ads,New Product Launch,25366,245,267.76,9,497.51
+2023-06-13,Google Ads,Brand Awareness,2154,43,59.28,3,281.69
+2023-10-16,Google Ads,Spring Sale,17609,538,631.22,35,1931.12
+2023-10-23,LinkedIn Ads,Brand Awareness,24477,714,2056.75,27,2318.54
+2023-11-03,LinkedIn Ads,Spring Sale,16649,544,785.78,40,3226.02
+2023-12-29,Facebook Ads,Brand Awareness,8350,147,182.35,12,1052.13
+2023-06-11,Google Ads,Brand Awareness,5961,42,58.74,2,194.13
+2023-04-23,LinkedIn Ads,New Product Launch,3171,96,272.68,5,315.98
+2023-06-08,TikTok Ads,New Product Launch,14357,275,346.15,6,648.83
+2023-04-18,Google Ads,Spring Sale,21160,131,223.67,6,772.94
+2023-08-17,LinkedIn Ads,New Product Launch,40340,352,908.81,13,1698.73
+2023-08-20,TikTok Ads,Brand Awareness,42685,563,378.84,27,2495.98
+2023-06-06,Google Ads,Brand Awareness,41868,319,511.61,20,1916.13
+2023-04-23,Facebook Ads,Spring Sale,7600,45,110.41,4,504.53
+2023-01-27,TikTok Ads,Brand Awareness,10886,88,124.81,5,319.21
+2023-07-15,Google Ads,New Product Launch,1375,28,25.17,1,85.32
+2023-10-16,Google Ads,New Product Launch,48429,379,547.51,26,1937.62
+2023-05-03,Google Ads,Retargeting,16499,304,674.66,6,635.8
+2023-07-15,Facebook Ads,Retargeting,13164,355,990.62,20,2729.29
+2023-03-24,LinkedIn Ads,New Product Launch,29707,408,568.53,9,696.58
+2023-10-23,LinkedIn Ads,Spring Sale,45901,287,570.16,12,1027.59
+2023-11-10,Facebook Ads,Retargeting,47758,848,1613.46,27,2828.44
+2023-08-29,Facebook Ads,Brand Awareness,37777,305,368.13,14,727.26
+2023-10-19,LinkedIn Ads,Brand Awareness,7970,54,43.47,5,568.72
+2023-12-09,Facebook Ads,Brand Awareness,16955,206,608.29,16,1797.54
+2023-02-22,LinkedIn Ads,Retargeting,29558,738,1927.18,59,7936.6
+2023-08-12,Facebook Ads,Retargeting,1924,28,75.92,0,0.0
+2023-04-08,LinkedIn Ads,New Product Launch,3988,67,148.93,3,383.6
+2023-04-22,Google Ads,Spring Sale,12463,255,318.05,13,918.04
+2023-12-26,TikTok Ads,Brand Awareness,49356,1442,1483.22,131,13847.96
+2023-12-26,Google Ads,New Product Launch,38998,538,1095.79,34,2587.56
+2023-02-16,Facebook Ads,New Product Launch,34767,1338,2254.45,116,11031.94
+2023-01-05,LinkedIn Ads,Retargeting,32580,166,494.84,8,757.01
+2023-01-03,Facebook Ads,New Product Launch,21842,646,803.37,16,871.02
+2023-01-31,LinkedIn Ads,New Product Launch,45376,1505,4512.65,53,6200.46
+2023-02-22,TikTok Ads,New Product Launch,18149,208,257.47,8,996.83
+2023-03-22,Facebook Ads,New Product Launch,42967,583,880.08,55,3191.2
+2023-10-28,LinkedIn Ads,Brand Awareness,19405,376,1103.28,35,3264.0
+2023-01-01,Facebook Ads,Retargeting,44435,766,890.33,65,5775.19
+2023-12-21,TikTok Ads,New Product Launch,18733,395,410.89,24,1442.52
+2023-10-21,Facebook Ads,New Product Launch,8405,175,377.38,6,655.71
+2023-02-07,Google Ads,Spring Sale,39292,735,1562.01,22,1278.65
+2023-04-09,TikTok Ads,Spring Sale,16014,490,1370.61,27,3461.77
+2023-10-02,LinkedIn Ads,Brand Awareness,25342,562,754.97,36,3062.25
+2023-03-27,LinkedIn Ads,New Product Launch,3212,120,263.78,8,471.04
+2023-04-19,LinkedIn Ads,Retargeting,25084,218,139.62,15,1536.99
+2023-03-09,TikTok Ads,Spring Sale,21394,490,1273.09,28,3985.46
+2023-09-29,TikTok Ads,Retargeting,23609,461,1173.54,34,4467.88
+2023-10-31,Facebook Ads,New Product Launch,30694,1013,2624.83,53,4083.34
+2023-06-25,LinkedIn Ads,New Product Launch,21873,317,630.56,18,2364.96
+2023-03-21,Google Ads,Retargeting,29327,1026,1193.25,88,11213.84
+2023-10-23,LinkedIn Ads,Brand Awareness,48501,891,942.34,51,6851.25
+2023-02-11,TikTok Ads,New Product Launch,11020,218,637.92,15,875.44
+2023-08-09,LinkedIn Ads,New Product Launch,8253,60,139.38,5,268.79
+2023-08-11,Facebook Ads,New Product Launch,1483,38,83.36,1,130.35
+2023-03-16,TikTok Ads,New Product Launch,25868,698,1506.0,51,2588.53
+2023-05-30,LinkedIn Ads,Retargeting,48845,935,2544.75,82,6292.69
+2023-01-06,Google Ads,Brand Awareness,49337,659,1386.46,30,3459.83
+2023-06-02,TikTok Ads,Retargeting,48622,343,297.54,16,1965.9
+2023-10-30,TikTok Ads,Spring Sale,24978,171,343.19,11,1019.26
+2023-09-24,Facebook Ads,Brand Awareness,4610,47,139.22,2,191.72
+2023-02-23,Facebook Ads,Retargeting,41716,1532,1953.98,58,5706.44
+2023-06-16,Facebook Ads,New Product Launch,45992,676,503.16,36,1836.22
+2023-09-06,TikTok Ads,Spring Sale,18770,518,651.7,40,5477.98
+2023-02-26,TikTok Ads,Retargeting,45177,731,1145.1,45,2763.99
+2023-09-18,TikTok Ads,Retargeting,36794,421,494.38,14,1799.03
+2023-12-28,Facebook Ads,New Product Launch,4737,151,216.89,13,1051.81
+2023-02-16,TikTok Ads,Spring Sale,23315,522,283.44,18,2016.86
+2023-05-30,LinkedIn Ads,Spring Sale,17749,113,217.19,8,673.27
+2023-09-30,Facebook Ads,Spring Sale,19513,703,1712.73,61,6674.15
+2023-04-12,TikTok Ads,Retargeting,19119,584,923.96,57,7544.7
+2023-05-22,TikTok Ads,Retargeting,35866,509,611.93,41,4179.91
+2023-08-20,TikTok Ads,Brand Awareness,39006,1230,705.69,108,6477.85
+2023-07-02,LinkedIn Ads,Retargeting,37239,503,1384.8,39,4463.58
+2023-03-18,Facebook Ads,New Product Launch,10626,110,316.37,10,1209.42
+2023-01-15,LinkedIn Ads,Brand Awareness,12769,220,231.36,20,1073.84
+2023-05-05,Google Ads,Brand Awareness,23072,584,1719.23,23,2931.44
+2023-10-26,Google Ads,Spring Sale,45526,281,684.88,9,1210.17
+2023-04-04,TikTok Ads,Retargeting,14512,222,602.32,5,269.38
+2023-08-20,Facebook Ads,Retargeting,39082,744,751.97,55,3996.59
+2023-03-12,Google Ads,Retargeting,33169,483,919.28,10,1412.1
+2023-03-12,TikTok Ads,New Product Launch,1668,19,46.85,1,80.4
+2023-06-13,Facebook Ads,Spring Sale,23411,502,1494.5,12,677.98
+2023-05-02,Google Ads,Brand Awareness,23727,914,2698.75,33,4711.55
+2023-06-07,TikTok Ads,Spring Sale,41203,1467,1580.18,54,6482.04
+2023-07-13,TikTok Ads,Retargeting,18750,528,1054.4,41,2212.83
+2023-08-09,TikTok Ads,New Product Launch,25949,644,1884.83,46,5928.4
+2023-02-02,Google Ads,Brand Awareness,28840,152,168.84,8,993.52
+2023-09-01,TikTok Ads,Retargeting,14832,207,523.4,8,423.64
+2023-07-12,LinkedIn Ads,Retargeting,9514,352,302.75,32,2435.0
+2023-02-21,Google Ads,New Product Launch,4639,158,129.17,12,1081.42
+2023-08-03,Google Ads,Retargeting,43758,1175,3475.86,95,4877.27
+2023-12-20,Facebook Ads,Spring Sale,20187,463,1082.84,18,1808.33
+2023-12-03,Google Ads,New Product Launch,33728,517,313.53,36,5379.58
+2023-09-21,TikTok Ads,New Product Launch,29927,1038,1453.69,94,10678.55
+2023-01-20,LinkedIn Ads,Brand Awareness,14902,431,536.18,36,3426.09
+2023-03-19,Facebook Ads,Retargeting,22401,679,1337.06,22,2293.27
+2023-11-23,Google Ads,Retargeting,45021,850,1655.43,76,10264.68
+2023-03-23,Facebook Ads,New Product Launch,47121,1678,3461.18,80,4294.59
+2023-01-23,Facebook Ads,Retargeting,35422,726,954.88,59,6325.58
+2023-02-09,Google Ads,Spring Sale,39502,630,910.42,34,2473.01
+2023-02-10,Facebook Ads,Retargeting,16709,317,269.77,31,1807.24
+2023-11-13,TikTok Ads,New Product Launch,9383,104,210.7,2,178.07
+2023-12-11,LinkedIn Ads,Brand Awareness,26900,1071,2460.79,89,9751.66
+2023-04-05,Google Ads,Brand Awareness,18496,616,1565.63,50,3547.3
+2023-12-24,Google Ads,Retargeting,3599,35,71.17,0,0.0
+2023-04-28,Facebook Ads,Brand Awareness,8897,46,89.15,3,314.76
+2023-04-24,LinkedIn Ads,New Product Launch,48919,1214,2863.0,81,8254.7
+2023-01-08,LinkedIn Ads,New Product Launch,15436,512,353.52,15,1126.02
+2023-06-25,Google Ads,New Product Launch,40015,321,290.13,7,941.05
+2023-06-02,LinkedIn Ads,New Product Launch,4769,74,72.95,5,572.68
+2023-08-21,TikTok Ads,Spring Sale,46439,263,526.97,16,1248.73
+2023-06-28,Facebook Ads,Spring Sale,29758,969,1197.37,29,1621.02
+2023-03-07,Google Ads,Retargeting,33560,609,531.46,52,6664.87
+2023-07-19,LinkedIn Ads,New Product Launch,19400,110,116.09,10,1403.0
+2023-04-26,LinkedIn Ads,Brand Awareness,44220,840,1442.22,31,3346.4
+2023-12-02,Google Ads,Retargeting,15534,245,236.94,20,1689.79
+2023-01-13,LinkedIn Ads,Brand Awareness,28481,358,327.57,25,2118.21
+2023-01-23,TikTok Ads,Brand Awareness,30481,998,956.43,92,12878.36
+2023-01-14,Facebook Ads,Retargeting,2905,51,110.69,4,399.72
+2023-02-10,Facebook Ads,New Product Launch,22733,175,390.06,15,1872.21
+2023-04-02,LinkedIn Ads,New Product Launch,43204,997,2875.03,93,8136.99
+2023-11-11,TikTok Ads,New Product Launch,12279,254,247.76,15,1182.27
+2023-02-02,Facebook Ads,Brand Awareness,29532,1081,1487.88,54,3854.27
+2023-10-17,Google Ads,Brand Awareness,21681,548,1321.25,17,1448.92
+2023-01-09,Facebook Ads,New Product Launch,35026,335,591.8,22,2634.7
+2023-05-22,Facebook Ads,New Product Launch,31060,588,793.6,46,6422.12
+2023-11-26,Google Ads,New Product Launch,19606,533,777.41,14,1576.9
+2023-01-18,Facebook Ads,Brand Awareness,38982,444,235.47,12,1061.45
+2023-03-11,Google Ads,Spring Sale,28846,209,571.62,12,1232.72
+2023-10-22,LinkedIn Ads,New Product Launch,17257,308,415.66,30,4231.07
+2023-03-08,Facebook Ads,New Product Launch,18021,694,966.23,60,3453.82
+2023-03-01,Google Ads,Brand Awareness,15773,431,376.2,42,4467.58
+2023-05-10,Google Ads,Retargeting,20158,750,1949.25,38,5459.84
+2023-03-28,Facebook Ads,Brand Awareness,10040,233,694.8,19,2760.07
+2023-10-17,Google Ads,Brand Awareness,46356,685,432.78,68,5030.45
+2023-01-17,Facebook Ads,Spring Sale,49655,1597,2097.71,92,5486.44
+2023-08-30,LinkedIn Ads,New Product Launch,43511,1085,1117.4,42,5719.36
+2023-05-16,Facebook Ads,Spring Sale,34606,824,2276.74,36,4324.49
+2023-04-30,LinkedIn Ads,Retargeting,31023,925,1237.39,80,10703.8
+2023-10-11,LinkedIn Ads,Brand Awareness,6839,84,131.0,4,362.94
+2023-10-01,Google Ads,Spring Sale,19532,452,319.79,39,4148.03
+2023-09-07,TikTok Ads,Retargeting,2167,49,50.85,2,210.97
+2023-01-07,LinkedIn Ads,Brand Awareness,33593,863,555.33,55,6576.61
+2023-09-24,Google Ads,Retargeting,15349,376,213.64,10,966.18
+2023-01-21,Google Ads,Brand Awareness,38626,635,1551.16,47,3212.68
+2023-07-17,Google Ads,Spring Sale,2535,53,110.48,3,196.74
+2023-02-19,Facebook Ads,New Product Launch,19134,664,1499.1,38,4609.57
+2023-03-24,Facebook Ads,New Product Launch,21827,357,488.01,29,3369.7
+2023-11-05,TikTok Ads,Spring Sale,10013,358,976.44,12,640.31
+2023-08-12,LinkedIn Ads,Brand Awareness,1482,35,58.28,3,441.37
+2023-06-06,Facebook Ads,Brand Awareness,38918,861,447.1,51,5436.94
+2023-01-26,Facebook Ads,Retargeting,33173,616,566.37,43,5307.09
+2023-12-14,Facebook Ads,New Product Launch,37419,1358,2957.5,83,4704.59
+2023-02-18,LinkedIn Ads,New Product Launch,46871,1861,4994.45,74,3751.22
+2023-01-29,Facebook Ads,Spring Sale,23395,331,474.29,17,1793.0
+2023-10-15,Facebook Ads,New Product Launch,45870,625,934.37,54,4077.18
+2023-11-09,TikTok Ads,Spring Sale,6633,211,423.47,16,1053.39
+2023-07-24,TikTok Ads,Retargeting,16472,343,888.53,18,1371.9
+2023-10-14,TikTok Ads,Spring Sale,37801,1338,1361.66,51,5005.04
+2023-01-15,LinkedIn Ads,New Product Launch,6254,158,272.11,15,1279.68
+2023-02-04,TikTok Ads,Brand Awareness,36449,1280,2937.44,80,7119.61
+2023-05-18,Google Ads,New Product Launch,30156,401,755.75,32,2089.75
+2023-07-12,LinkedIn Ads,Brand Awareness,41214,1464,1260.7,55,6999.66
+2023-06-16,Google Ads,Spring Sale,18313,530,663.59,23,3136.64
+2023-11-18,TikTok Ads,New Product Launch,22881,401,819.76,37,4415.46
+2023-03-27,Google Ads,New Product Launch,48606,1464,1129.26,114,10488.71
+2023-01-10,Google Ads,Spring Sale,26380,885,510.63,50,5183.09
+2023-08-15,Facebook Ads,Spring Sale,43110,1073,790.4,61,5810.83
+2023-08-16,TikTok Ads,Retargeting,13996,459,889.03,12,1502.64
+2023-04-04,TikTok Ads,Retargeting,16730,108,301.3,8,941.95
+2023-02-03,TikTok Ads,New Product Launch,43312,985,1813.93,54,6606.92
+2023-08-09,Google Ads,Brand Awareness,31395,676,861.93,57,6158.45
+2023-02-01,LinkedIn Ads,Retargeting,22139,817,1860.82,70,8227.78
+2023-09-23,Google Ads,Retargeting,12505,337,754.54,12,817.01
+2023-04-15,Google Ads,Spring Sale,11112,362,312.66,11,1016.28
+2023-01-16,TikTok Ads,New Product Launch,3167,82,192.8,5,391.49
+2023-12-07,Facebook Ads,Spring Sale,29942,504,1096.7,14,1913.04
+2023-05-26,Google Ads,Spring Sale,3951,110,192.59,8,1170.46
+2023-07-18,LinkedIn Ads,Spring Sale,22838,563,618.79,27,2880.01
+2023-10-19,TikTok Ads,Retargeting,29250,246,736.19,21,2656.24
+2023-06-23,Facebook Ads,New Product Launch,42419,237,529.52,10,1007.38
+2023-05-12,Facebook Ads,Spring Sale,29882,462,1384.16,42,3613.15
+2023-03-31,Facebook Ads,Spring Sale,37788,568,956.04,43,3113.45
+2023-05-13,TikTok Ads,Retargeting,19885,107,168.09,10,1124.64
+2023-10-01,Facebook Ads,Brand Awareness,13349,273,505.95,26,3510.86
+2023-08-18,LinkedIn Ads,Retargeting,14339,364,857.05,24,1684.16
+2023-06-25,LinkedIn Ads,New Product Launch,31256,1089,2632.71,37,5410.22
+2023-03-26,Google Ads,Brand Awareness,40046,1205,2217.69,65,8067.9
+2023-12-22,Google Ads,Spring Sale,16598,321,620.89,25,1624.42
+2023-04-13,TikTok Ads,Retargeting,9800,253,253.74,5,646.46
+2023-03-17,Facebook Ads,New Product Launch,10236,137,302.27,2,158.08
+2023-08-07,LinkedIn Ads,Retargeting,6930,99,229.52,5,588.85
+2023-07-27,Google Ads,Retargeting,37659,1361,1678.35,43,3123.18
+2023-05-17,TikTok Ads,Spring Sale,41565,307,291.52,29,2584.35
+2023-03-07,Facebook Ads,Spring Sale,30916,714,823.13,16,1411.65
+2023-11-01,LinkedIn Ads,Retargeting,40439,444,1274.9,28,3829.79
+2023-07-18,Facebook Ads,New Product Launch,12132,260,156.75,13,1604.21
+2023-09-22,TikTok Ads,Retargeting,30524,575,295.26,45,3438.41
+2023-06-10,Facebook Ads,New Product Launch,4040,105,154.06,10,886.74
+2023-12-07,TikTok Ads,Brand Awareness,29033,910,1163.4,55,6219.2
+2023-07-07,LinkedIn Ads,Brand Awareness,33213,1148,3072.11,72,5684.18
+2023-01-17,LinkedIn Ads,New Product Launch,22931,138,175.98,7,598.53
+2023-04-03,LinkedIn Ads,Spring Sale,35936,1024,1693.4,68,8351.47
+2023-08-24,LinkedIn Ads,Brand Awareness,17603,429,513.61,24,2795.94
+2023-01-27,TikTok Ads,Spring Sale,38503,1144,1258.7,84,10607.2
+2023-08-10,LinkedIn Ads,New Product Launch,3101,107,130.35,6,863.98
+2023-02-14,Facebook Ads,Brand Awareness,32148,759,1845.01,23,2160.26
+2023-02-20,TikTok Ads,Brand Awareness,21783,464,986.46,40,3002.98
+2023-07-16,TikTok Ads,Spring Sale,11429,380,1105.82,15,1887.76
+2023-06-20,LinkedIn Ads,Retargeting,33311,1025,2253.83,59,4797.52
+2023-02-22,Google Ads,New Product Launch,8126,185,396.61,8,830.93
+2023-08-31,LinkedIn Ads,New Product Launch,13724,70,205.3,2,230.94
+2023-04-19,TikTok Ads,Brand Awareness,25042,673,599.81,54,6191.12
+2023-08-02,TikTok Ads,Brand Awareness,39030,994,2543.89,43,2713.36
+2023-11-12,Google Ads,New Product Launch,16550,574,1407.37,31,2755.17
+2023-10-05,Google Ads,New Product Launch,36123,1264,2254.65,112,12244.32
+2023-06-16,TikTok Ads,Spring Sale,14968,173,496.34,13,1141.58
+2023-09-25,LinkedIn Ads,New Product Launch,23240,281,740.3,12,1253.37
+2023-09-02,TikTok Ads,Retargeting,1943,16,8.45,1,50.84
+2023-01-02,LinkedIn Ads,Spring Sale,8669,150,84.21,13,1911.28
+2024-01-01,Facebook Ads,Retargeting,17530,643,1814.72,39,3302.72
+2023-06-30,Google Ads,Brand Awareness,33110,969,2220.81,34,2949.08
+2023-05-08,LinkedIn Ads,New Product Launch,9644,368,1081.77,14,749.39
+2023-02-07,Google Ads,New Product Launch,24903,297,789.06,10,758.2
+2023-03-27,Google Ads,New Product Launch,11566,178,201.21,11,1415.0
+2023-02-05,Facebook Ads,Brand Awareness,6680,34,83.61,3,172.52
+2023-03-22,TikTok Ads,Retargeting,24238,906,2599.39,23,2648.51
+2023-01-21,Facebook Ads,Spring Sale,16690,522,672.48,24,1624.53
+2023-06-15,TikTok Ads,Retargeting,4980,82,145.2,3,194.35
+2023-09-03,LinkedIn Ads,New Product Launch,32662,839,1210.16,57,8285.16
+2023-10-28,Google Ads,Spring Sale,21761,231,462.6,14,2005.46
+2023-03-06,TikTok Ads,Brand Awareness,47867,886,547.4,52,2963.63
+2023-02-15,Facebook Ads,Retargeting,9517,124,167.51,3,177.51
+2023-10-21,Facebook Ads,Spring Sale,24448,499,456.89,23,3040.19
+2023-12-16,Google Ads,Retargeting,27556,397,541.99,30,2532.82
+2023-08-26,LinkedIn Ads,New Product Launch,13193,509,775.94,27,3305.64
+2023-04-04,LinkedIn Ads,Retargeting,23581,308,689.63,27,3045.8
+2023-12-06,LinkedIn Ads,Spring Sale,28048,469,860.82,31,4595.83
+2023-05-15,Facebook Ads,Brand Awareness,12881,366,225.7,26,2672.41
+2023-03-12,Google Ads,Retargeting,31992,698,591.17,40,5967.68
+2023-10-11,Facebook Ads,Spring Sale,39895,377,258.37,16,1202.09
+2023-09-28,Google Ads,Retargeting,5458,196,471.81,9,1249.47
+2023-01-29,TikTok Ads,Brand Awareness,1366,30,44.88,2,269.25
+2023-04-20,LinkedIn Ads,Brand Awareness,42756,1339,3008.15,70,5041.61
+2023-10-23,TikTok Ads,Spring Sale,41023,1314,1151.68,130,9470.67
+2023-05-09,Facebook Ads,Spring Sale,24897,769,1328.23,50,2828.4
+2023-06-26,TikTok Ads,Brand Awareness,2077,58,114.39,1,99.89
+2023-01-02,LinkedIn Ads,Spring Sale,2455,43,113.26,2,270.67
+2023-06-10,Facebook Ads,Spring Sale,39917,501,762.09,41,4367.99
+2023-04-03,LinkedIn Ads,Retargeting,15157,443,636.99,41,4007.51
+2023-11-08,Facebook Ads,Retargeting,17564,346,720.28,23,1904.96
+2023-08-17,Facebook Ads,New Product Launch,37718,1491,1401.74,115,6076.15
+2023-04-11,LinkedIn Ads,Retargeting,32754,244,400.89,6,812.19
+2023-05-29,Facebook Ads,New Product Launch,27026,518,405.29,36,5347.46
+2023-05-08,Google Ads,New Product Launch,9350,286,363.47,23,1486.28
+2023-01-23,Facebook Ads,Retargeting,16365,195,548.24,14,1593.12
+2023-03-31,Facebook Ads,Brand Awareness,27491,447,1068.63,39,4698.18
+2023-03-18,Facebook Ads,Spring Sale,43278,520,1057.04,51,2905.94
+2023-08-27,TikTok Ads,Brand Awareness,40781,565,1331.36,52,5591.53
+2023-04-10,TikTok Ads,Brand Awareness,14200,490,564.51,48,5173.28
+2023-08-01,Google Ads,New Product Launch,41016,1333,2636.23,105,11758.77
+2023-03-11,TikTok Ads,Brand Awareness,17590,363,545.01,8,447.12
+2023-05-01,LinkedIn Ads,Retargeting,32466,1274,3814.18,28,3433.97
+2023-03-06,Facebook Ads,New Product Launch,49154,428,284.1,13,1441.14
+2023-03-29,TikTok Ads,New Product Launch,28216,979,2773.28,30,1748.43
+2023-12-27,Google Ads,Brand Awareness,26370,862,2328.87,38,3547.96
+2023-11-13,TikTok Ads,Spring Sale,2386,59,170.66,2,275.26
+2023-03-23,LinkedIn Ads,New Product Launch,47703,1703,3490.3,88,4977.35
+2023-06-01,TikTok Ads,New Product Launch,39333,1210,1020.34,79,4163.38
+2023-10-05,LinkedIn Ads,Brand Awareness,16393,438,582.14,37,3732.44
+2023-09-20,LinkedIn Ads,Brand Awareness,24917,406,440.7,15,1904.61
+2023-01-03,Facebook Ads,Spring Sale,20963,257,284.67,15,1952.53
+2023-02-11,LinkedIn Ads,New Product Launch,6209,161,130.69,3,348.25
+2023-06-22,TikTok Ads,New Product Launch,44984,660,1212.14,57,4148.06
+2023-02-21,TikTok Ads,Spring Sale,5420,161,217.26,3,419.36
+2023-03-21,LinkedIn Ads,Retargeting,14618,190,349.84,8,1181.47
+2023-07-27,Facebook Ads,New Product Launch,26309,961,2298.81,67,6211.0
+2023-05-14,Google Ads,Brand Awareness,49640,1281,2467.05,86,8875.09
+2023-03-12,LinkedIn Ads,New Product Launch,49051,1684,3816.72,159,9294.71
+2024-01-01,Google Ads,New Product Launch,17693,381,965.0,23,1663.71
+2023-10-21,TikTok Ads,Brand Awareness,34713,677,1173.7,53,3488.62
+2023-07-23,TikTok Ads,Retargeting,29455,972,742.73,59,7906.23
+2023-03-21,LinkedIn Ads,Retargeting,47241,1278,1798.25,48,5255.77
+2023-04-23,TikTok Ads,Brand Awareness,27894,585,386.15,39,2650.11
+2023-03-22,TikTok Ads,Retargeting,3677,121,152.22,4,286.86
+2023-09-19,Facebook Ads,Retargeting,39954,1295,2371.82,93,13763.22
+2023-05-01,Google Ads,Retargeting,20146,525,1054.17,14,1979.63
+2024-01-01,LinkedIn Ads,Retargeting,4658,148,443.93,6,554.57
+2023-06-09,Google Ads,Retargeting,7177,271,474.58,17,907.04
+2023-03-27,Facebook Ads,New Product Launch,13552,220,536.3,15,1941.76
+2023-10-21,TikTok Ads,New Product Launch,41752,533,603.97,25,2796.69
+2023-07-22,TikTok Ads,Spring Sale,16938,219,153.95,10,524.34
+2023-05-07,TikTok Ads,Brand Awareness,38296,293,760.97,25,2142.97
+2023-03-06,Facebook Ads,New Product Launch,20275,441,1020.0,15,1953.88
+2023-12-17,TikTok Ads,Retargeting,34647,606,1613.56,53,6050.84
+2023-11-28,Google Ads,Brand Awareness,28755,882,2640.18,54,6783.85
+2023-08-17,Facebook Ads,Retargeting,6619,103,215.67,6,840.75
+2023-02-12,LinkedIn Ads,New Product Launch,23760,627,336.16,17,2298.91
+2023-12-19,Facebook Ads,Brand Awareness,28192,815,1428.86,73,7391.82
+2023-04-04,Google Ads,New Product Launch,24809,232,570.09,15,1050.62
+2023-01-27,Facebook Ads,Spring Sale,45849,1624,4436.95,52,6576.79
+2023-05-23,LinkedIn Ads,Spring Sale,18536,663,1423.37,58,7375.75
+2023-03-19,LinkedIn Ads,Brand Awareness,19911,754,1030.05,24,2293.79
+2023-06-07,TikTok Ads,New Product Launch,41788,977,1002.34,30,4318.58
+2023-11-26,LinkedIn Ads,New Product Launch,31996,248,282.17,19,2065.79
+2023-08-18,Facebook Ads,New Product Launch,32339,225,649.35,20,2362.13
+2023-10-02,Google Ads,New Product Launch,39416,753,1356.99,30,4041.13
+2023-04-28,LinkedIn Ads,New Product Launch,47382,688,771.73,25,2022.7
+2023-07-07,TikTok Ads,Retargeting,2076,46,114.14,2,299.72
+2023-05-15,Facebook Ads,Spring Sale,7806,100,236.83,6,837.12
+2023-10-31,LinkedIn Ads,New Product Launch,11774,187,272.13,7,449.95
+2023-12-22,LinkedIn Ads,Spring Sale,48672,1392,3500.15,128,9227.55
+2023-10-12,TikTok Ads,Retargeting,49825,609,925.33,36,2766.43
+2023-07-22,TikTok Ads,Retargeting,29068,849,2519.8,79,9056.54
+2023-09-29,Facebook Ads,Brand Awareness,22522,587,933.38,27,2763.93
+2023-04-11,TikTok Ads,Spring Sale,11499,225,582.85,19,2335.17
+2023-10-31,LinkedIn Ads,Retargeting,6363,219,277.15,18,1883.12
+2023-06-01,TikTok Ads,Brand Awareness,5527,219,284.85,7,356.28
+2023-02-01,TikTok Ads,Spring Sale,22560,382,850.33,12,1238.78
+2023-05-05,LinkedIn Ads,New Product Launch,49720,1232,3475.07,43,3148.59
+2023-08-09,Facebook Ads,Brand Awareness,23716,392,720.67,26,3635.76
+2023-01-08,Facebook Ads,Spring Sale,19628,352,1031.85,30,2493.71
+2023-06-09,Google Ads,Brand Awareness,26535,150,99.62,11,1502.02
+2023-04-20,LinkedIn Ads,New Product Launch,28946,460,666.53,10,735.91
+2023-09-09,Google Ads,Retargeting,5226,149,441.44,6,787.46
+2023-08-06,LinkedIn Ads,Retargeting,24743,662,1377.07,40,5152.19
+2023-04-19,Google Ads,Retargeting,35961,768,989.86,48,3744.35
+2023-02-14,Google Ads,Brand Awareness,41839,1264,667.23,45,5013.26
+2023-04-21,Facebook Ads,Brand Awareness,9274,74,117.3,3,442.41
+2023-05-08,Facebook Ads,Retargeting,7127,212,343.21,11,947.15
+2023-02-28,Facebook Ads,New Product Launch,7290,64,43.79,2,152.86
+2023-07-03,LinkedIn Ads,Spring Sale,7429,167,268.99,9,969.07
+2023-03-07,Facebook Ads,Spring Sale,32508,274,422.77,8,919.57
+2023-08-05,TikTok Ads,Spring Sale,32126,1269,2841.08,32,3162.83
+2023-01-15,Facebook Ads,Brand Awareness,31193,1225,1056.96,76,5935.58
+2023-08-18,Google Ads,New Product Launch,33831,1124,1357.93,74,4831.08
+2023-04-21,LinkedIn Ads,Brand Awareness,22357,591,707.37,27,3808.64
+2023-05-22,TikTok Ads,New Product Launch,12506,477,385.83,26,2286.27
+2023-03-25,TikTok Ads,New Product Launch,4985,45,123.03,2,261.02
+2023-05-24,Google Ads,Spring Sale,29801,517,805.9,39,5622.88
+2023-09-07,LinkedIn Ads,Brand Awareness,25921,290,265.69,27,2472.46
+2023-11-24,TikTok Ads,New Product Launch,19993,220,199.95,10,946.76
+2023-07-03,TikTok Ads,New Product Launch,8761,119,105.17,11,674.87
+2023-05-30,Google Ads,Spring Sale,17923,205,356.05,15,2122.25
+2023-12-19,Google Ads,Retargeting,34680,258,620.53,5,745.71
+2023-07-06,Google Ads,Brand Awareness,42073,1175,1774.99,75,7392.31
+2023-07-19,Google Ads,Spring Sale,8354,251,544.8,9,466.52
+2024-01-01,TikTok Ads,Spring Sale,22164,416,779.87,23,1876.93
+2023-07-10,TikTok Ads,Spring Sale,3443,52,138.34,3,223.49
+2023-07-31,Facebook Ads,New Product Launch,22200,578,1059.21,21,2491.5
+2023-01-03,LinkedIn Ads,Spring Sale,36958,405,1189.75,39,2892.77
+2023-09-18,LinkedIn Ads,Spring Sale,18224,662,1853.2,28,3229.93
+2023-09-08,LinkedIn Ads,New Product Launch,6621,89,237.08,6,666.44
+2023-12-31,Facebook Ads,New Product Launch,14568,104,178.99,9,608.04
+2023-01-01,Google Ads,Spring Sale,47716,1110,2504.39,65,6183.1
+2023-06-10,Google Ads,Spring Sale,28960,797,1524.06,57,3472.82
+2023-04-29,LinkedIn Ads,Spring Sale,45080,1503,2785.8,78,4187.07
+2023-08-13,LinkedIn Ads,Spring Sale,49205,1188,3181.68,65,6388.05
+2023-12-28,Facebook Ads,Brand Awareness,4813,150,336.11,6,707.27
+2023-03-13,LinkedIn Ads,Brand Awareness,15059,356,733.25,29,4263.97
+2023-12-19,TikTok Ads,Retargeting,6185,228,272.12,16,929.52
+2023-12-13,Facebook Ads,New Product Launch,43510,1596,1551.56,87,10686.25
+2023-06-01,Google Ads,Brand Awareness,26690,946,963.84,76,10804.46
+2023-03-28,Facebook Ads,Spring Sale,25979,546,734.96,38,5301.83
+2023-01-17,Google Ads,Spring Sale,40167,217,326.75,19,1732.08
+2023-02-20,Facebook Ads,Brand Awareness,17355,678,1896.37,30,3129.14
+2023-05-05,Google Ads,Retargeting,40628,1347,696.71,91,9832.81
+2023-07-02,Google Ads,Retargeting,22380,365,241.79,34,2559.32
+2023-05-06,Facebook Ads,Spring Sale,16449,227,409.82,6,347.92
+2023-02-01,TikTok Ads,Spring Sale,15236,296,701.22,13,1179.29
+2023-09-24,LinkedIn Ads,Spring Sale,4057,75,123.4,2,230.13
+2023-07-08,LinkedIn Ads,Retargeting,32885,1052,1346.68,98,10268.22
+2023-02-02,Facebook Ads,New Product Launch,8500,63,62.85,3,440.82
+2023-01-27,LinkedIn Ads,Spring Sale,4653,66,84.6,4,514.52
+2023-08-06,Google Ads,Spring Sale,23365,568,679.28,23,1315.93
+2023-11-08,LinkedIn Ads,Retargeting,45271,848,1254.43,70,5719.64
+2023-11-09,LinkedIn Ads,New Product Launch,5273,29,32.59,2,271.81
+2023-06-16,Facebook Ads,Retargeting,15102,318,708.3,10,603.02
+2023-01-26,LinkedIn Ads,Spring Sale,6656,144,278.46,5,433.95
+2023-10-16,LinkedIn Ads,New Product Launch,39762,512,1280.67,22,1811.79
+2023-11-02,LinkedIn Ads,Retargeting,16797,278,364.92,11,1285.18
+2023-08-13,Facebook Ads,Brand Awareness,5106,133,262.25,5,526.65
+2023-02-07,LinkedIn Ads,Brand Awareness,12605,390,1016.82,13,1915.88
+2023-10-31,LinkedIn Ads,Brand Awareness,12516,369,984.35,23,1590.47
+2023-04-17,LinkedIn Ads,Brand Awareness,4011,49,125.73,2,170.7
+2023-01-03,Google Ads,Spring Sale,12502,327,686.69,18,1944.7
+2023-01-22,Facebook Ads,New Product Launch,6778,219,288.87,14,1694.74
+2023-08-03,Facebook Ads,Retargeting,17365,554,715.57,41,3335.98
+2023-12-23,Google Ads,Spring Sale,21224,687,1228.79,21,1060.99
+2023-08-26,Google Ads,Retargeting,26689,165,352.93,3,428.69
+2023-08-11,Google Ads,New Product Launch,30892,371,218.24,10,887.37
+2023-04-21,Google Ads,Retargeting,44613,1733,4816.59,70,9555.09
+2023-06-04,Google Ads,Brand Awareness,38182,1130,3177.58,87,4481.61
+2023-06-03,Google Ads,Brand Awareness,30918,753,651.13,44,5286.03
+2023-09-03,TikTok Ads,Retargeting,42379,411,992.94,19,2314.19
+2023-03-27,LinkedIn Ads,Retargeting,44436,1418,4034.53,60,4440.32
+2023-04-13,Facebook Ads,New Product Launch,17525,393,671.58,17,2197.22
+2023-03-25,TikTok Ads,Spring Sale,21747,450,538.53,33,1691.56
+2023-05-03,LinkedIn Ads,New Product Launch,15982,403,518.45,16,1053.64
+2023-01-19,TikTok Ads,Spring Sale,38637,1237,1250.08,117,15170.56
+2023-03-15,Facebook Ads,Spring Sale,22770,150,254.47,10,1008.59
+2023-09-30,Google Ads,New Product Launch,15669,482,918.03,41,5649.72
+2023-04-18,Facebook Ads,Retargeting,16465,487,536.75,41,5131.62
+2023-05-19,LinkedIn Ads,Brand Awareness,35899,1415,3265.38,93,9340.07
+2023-06-25,Facebook Ads,Brand Awareness,47686,933,1261.67,22,2570.67
+2023-03-01,LinkedIn Ads,Brand Awareness,18552,185,237.57,9,642.16
+2023-11-10,Facebook Ads,Brand Awareness,6375,185,129.09,17,2162.16
+2023-06-08,Google Ads,Spring Sale,40116,1081,2900.15,99,5293.96
+2023-06-12,TikTok Ads,Spring Sale,39445,813,1415.87,70,9684.32
+2023-04-12,LinkedIn Ads,Brand Awareness,32954,350,343.79,20,2878.83
+2023-07-08,Facebook Ads,Spring Sale,10457,173,112.21,11,1615.95
+2023-02-28,TikTok Ads,Retargeting,42466,1092,2570.67,47,4759.53
+2023-08-28,TikTok Ads,New Product Launch,9510,211,595.36,9,1344.46
+2023-01-26,TikTok Ads,Retargeting,22892,785,874.7,31,2784.21
+2023-08-13,TikTok Ads,Brand Awareness,16662,601,1738.77,14,1138.91
+2023-07-29,Facebook Ads,Retargeting,9669,133,166.0,9,1094.09
+2023-08-11,LinkedIn Ads,Brand Awareness,28180,275,157.84,18,2155.03
+2023-08-27,LinkedIn Ads,New Product Launch,32808,1183,3449.21,34,3435.13
+2023-02-13,Google Ads,Spring Sale,49637,1729,4747.97,53,5167.88
+2023-06-14,LinkedIn Ads,Spring Sale,16587,407,1143.15,27,2570.1
+2023-04-12,Google Ads,Spring Sale,33677,279,659.85,15,2152.11
+2023-02-18,Google Ads,New Product Launch,6450,250,305.04,11,1384.8
+2023-10-18,TikTok Ads,New Product Launch,37686,817,2141.91,49,2935.41
+2023-08-17,TikTok Ads,Brand Awareness,24793,559,482.31,21,1099.62
+2023-10-09,LinkedIn Ads,New Product Launch,37881,1226,1815.48,117,6556.14
+2023-03-18,Google Ads,Brand Awareness,25377,873,710.4,23,2122.04
+2023-11-22,Facebook Ads,New Product Launch,11900,154,199.5,11,560.49
+2023-01-14,Facebook Ads,Brand Awareness,22787,525,398.44,51,3394.37
+2023-10-29,Facebook Ads,New Product Launch,21898,595,432.03,24,1379.05
+2023-01-26,TikTok Ads,Retargeting,11854,379,992.34,7,582.23
+2023-10-03,Google Ads,Brand Awareness,22847,457,1087.92,12,876.04
+2023-02-23,TikTok Ads,Spring Sale,18801,656,1578.64,41,2174.63
+2023-10-20,TikTok Ads,Brand Awareness,41715,986,1970.81,65,9385.72
+2023-01-26,LinkedIn Ads,Brand Awareness,11876,258,365.46,11,1389.49
+2023-08-21,Facebook Ads,Spring Sale,18070,140,242.47,5,632.28
+2023-10-04,LinkedIn Ads,Spring Sale,38365,224,666.33,11,1281.32
+2023-01-29,TikTok Ads,New Product Launch,12461,231,289.66,22,2022.81
+2023-11-28,Google Ads,Brand Awareness,28859,312,894.29,31,3889.73
+2023-10-31,TikTok Ads,Spring Sale,47868,1182,2289.4,25,3315.94
+2023-10-31,TikTok Ads,New Product Launch,40161,643,1799.63,15,1422.49
+2023-07-23,TikTok Ads,Retargeting,41501,1466,1344.23,52,2763.75
+2023-12-21,LinkedIn Ads,Retargeting,17283,589,1039.15,18,2450.82
+2023-11-05,TikTok Ads,Spring Sale,4616,46,114.74,2,155.91
+2023-07-02,LinkedIn Ads,Spring Sale,37719,1449,3650.46,37,3957.83
+2023-02-03,Facebook Ads,Brand Awareness,3650,110,309.7,10,1167.6
+2023-12-17,TikTok Ads,Spring Sale,48339,590,1273.58,45,3218.65
+2023-03-17,Facebook Ads,New Product Launch,6817,186,290.83,18,1141.66
+2023-02-14,LinkedIn Ads,Retargeting,36679,1407,3155.57,62,8115.65
+2023-06-09,Google Ads,Brand Awareness,27128,956,552.11,77,11500.56
+2023-11-15,TikTok Ads,Spring Sale,49066,1120,1744.48,39,3779.75
+2023-02-22,Google Ads,New Product Launch,40850,1448,3098.13,119,15860.79
+2023-03-20,LinkedIn Ads,Spring Sale,18149,471,1346.86,19,1333.16
+2023-07-27,LinkedIn Ads,New Product Launch,15567,292,393.66,21,3044.37
+2023-05-01,Google Ads,Retargeting,19113,148,148.39,12,1528.8
+2023-05-29,LinkedIn Ads,Spring Sale,41845,1189,2602.14,49,3193.94
+2023-01-13,Facebook Ads,Brand Awareness,11154,66,46.56,5,424.71
+2023-07-01,TikTok Ads,Spring Sale,12434,432,753.53,21,1661.23
+2023-10-12,Facebook Ads,New Product Launch,1399,33,50.96,2,274.98
+2023-11-20,Facebook Ads,Spring Sale,11926,296,287.82,14,1876.14
+2023-01-27,Google Ads,Brand Awareness,22116,387,416.47,27,2627.76
+2023-07-08,TikTok Ads,New Product Launch,6667,119,292.72,8,1138.44
+2023-01-29,TikTok Ads,Brand Awareness,28934,1014,1067.05,65,5655.16
+2023-03-01,Google Ads,Brand Awareness,35617,1133,2653.87,104,15576.9
+2023-04-23,LinkedIn Ads,New Product Launch,37652,1353,956.74,75,5816.05
+2023-09-10,TikTok Ads,New Product Launch,9530,117,197.4,8,581.57
+2023-10-26,TikTok Ads,Spring Sale,15157,527,499.56,36,3653.43
+2023-09-25,Facebook Ads,New Product Launch,8695,293,652.75,19,1700.25
+2023-09-09,Facebook Ads,New Product Launch,7609,49,37.62,2,210.09
+2023-06-13,Facebook Ads,Spring Sale,16269,622,513.54,35,5036.87
+2023-03-12,Facebook Ads,Retargeting,29262,278,534.4,5,323.17
+2023-02-02,Google Ads,Spring Sale,25334,220,500.64,10,1199.66
+2023-04-08,TikTok Ads,Retargeting,14426,315,465.83,30,3128.85
+2023-02-21,Facebook Ads,Spring Sale,39705,1283,2332.63,107,11129.7
+2023-09-14,Google Ads,Brand Awareness,10834,159,195.85,5,356.85
+2023-02-01,Google Ads,Retargeting,49910,1419,1178.48,129,8388.23
+2023-11-19,LinkedIn Ads,New Product Launch,15401,250,630.12,17,1218.29
+2023-11-29,Google Ads,Brand Awareness,44330,1566,3135.99,128,14947.88
+2023-05-10,LinkedIn Ads,Retargeting,17985,461,740.76,43,4323.46
+2023-06-20,LinkedIn Ads,Retargeting,7852,218,348.68,8,795.09
+2023-07-17,LinkedIn Ads,Spring Sale,2068,81,202.25,2,295.27
+2023-12-26,Google Ads,Retargeting,20737,468,698.54,41,2144.91
+2023-09-08,LinkedIn Ads,Brand Awareness,35029,566,696.47,54,4432.54
+2023-05-03,Google Ads,Retargeting,31825,696,1917.74,20,2632.03
+2023-08-03,TikTok Ads,Retargeting,24356,270,266.22,8,1043.9
+2023-06-19,Facebook Ads,Retargeting,13094,500,501.67,34,5002.58
+2023-08-16,TikTok Ads,Spring Sale,45405,1229,3475.48,90,7085.89
+2023-04-20,Facebook Ads,Brand Awareness,35105,463,705.25,43,4931.27
+2023-08-04,LinkedIn Ads,Brand Awareness,17801,135,88.17,6,741.75
+2023-01-12,Google Ads,Brand Awareness,33790,686,1580.01,66,3405.92
+2023-05-21,Google Ads,New Product Launch,6316,211,347.67,9,1342.41
+2023-03-05,Google Ads,Brand Awareness,49048,1070,1403.98,99,14488.43
+2023-12-22,TikTok Ads,Spring Sale,13194,203,494.2,6,551.08
+2023-10-25,LinkedIn Ads,New Product Launch,45455,541,401.98,24,1695.48
+2023-10-29,Google Ads,Spring Sale,29578,311,772.97,6,826.64
+2023-09-03,Facebook Ads,Retargeting,26331,489,1246.42,30,2141.46
+2023-01-15,TikTok Ads,Retargeting,12520,131,217.47,5,269.74
+2023-11-22,Google Ads,Spring Sale,17976,252,740.9,5,436.66
+2023-04-21,LinkedIn Ads,Spring Sale,33051,896,1478.0,51,7125.83
+2023-07-02,TikTok Ads,Spring Sale,46251,1084,2485.22,79,8462.93
+2023-01-25,Facebook Ads,Retargeting,39483,1540,4052.24,110,13543.8
+2023-09-27,Facebook Ads,New Product Launch,44783,945,530.08,33,3930.7
+2023-10-16,Facebook Ads,Brand Awareness,11639,434,920.35,40,4678.99
+2023-06-30,TikTok Ads,Brand Awareness,6815,160,179.87,12,1001.07
+2023-01-02,LinkedIn Ads,Brand Awareness,6288,179,459.07,10,1177.85
+2023-03-06,Facebook Ads,Brand Awareness,11359,188,388.91,17,2153.05
+2023-06-29,TikTok Ads,New Product Launch,39443,372,239.63,17,993.61
+2023-07-12,Google Ads,Brand Awareness,23624,273,694.47,24,1679.64
+2023-06-30,LinkedIn Ads,Retargeting,38093,888,597.36,26,2349.15
+2023-04-22,Google Ads,Brand Awareness,30296,885,1732.74,33,3294.79
+2023-02-06,Google Ads,Brand Awareness,17205,659,886.62,30,2187.52
+2023-04-24,TikTok Ads,Retargeting,46055,292,453.89,12,982.71
+2023-08-06,Facebook Ads,Brand Awareness,5279,141,198.83,6,398.71
+2023-11-27,Google Ads,Brand Awareness,45430,563,1604.85,51,6528.85
+2023-05-11,Facebook Ads,Retargeting,29022,297,522.63,11,921.43
+2023-11-05,Google Ads,Retargeting,36253,373,801.24,25,2419.74
+2023-08-28,Google Ads,Spring Sale,26930,270,607.88,7,980.66
+2023-07-31,LinkedIn Ads,New Product Launch,4818,148,164.61,10,640.01
+2023-11-13,Google Ads,Brand Awareness,4480,162,461.37,7,548.43
+2023-12-01,Google Ads,Spring Sale,45377,278,544.7,20,1622.06
+2023-07-24,Facebook Ads,Brand Awareness,10530,293,575.26,23,1644.69
+2023-04-05,Facebook Ads,Brand Awareness,7997,129,168.24,3,229.96
+2023-01-16,Facebook Ads,Spring Sale,48450,687,1675.44,33,1921.72
+2023-05-12,Facebook Ads,New Product Launch,39044,1247,2737.03,113,11320.61
+2023-10-20,TikTok Ads,Retargeting,26501,880,1919.79,66,4738.73
+2023-11-22,Google Ads,Spring Sale,26912,827,1338.12,24,2689.41
+2023-06-11,Facebook Ads,Spring Sale,33990,1251,2037.06,92,10936.57
+2023-02-21,Google Ads,Brand Awareness,20740,268,593.54,18,2632.28
+2023-10-12,Google Ads,Spring Sale,33869,371,420.57,15,1850.06
+2023-07-14,Google Ads,Retargeting,28188,579,1499.73,38,2149.04
+2023-04-03,TikTok Ads,New Product Launch,46341,1829,4956.45,107,11241.93
+2023-01-03,Facebook Ads,Brand Awareness,17328,290,645.78,24,3050.45
+2023-05-30,Google Ads,Retargeting,4210,21,13.76,0,0.0
+2023-10-04,TikTok Ads,Retargeting,3010,106,285.03,3,400.46
+2023-10-27,LinkedIn Ads,New Product Launch,15677,411,593.29,16,918.84
+2023-02-19,Google Ads,Spring Sale,6954,248,411.33,23,2497.69
+2023-01-04,Google Ads,Brand Awareness,38448,1332,1091.59,112,12208.28
+2023-11-20,Google Ads,New Product Launch,33974,673,1162.83,43,6130.87
+2023-06-25,Google Ads,Spring Sale,20865,586,1680.59,50,7040.97
+2023-03-05,TikTok Ads,Spring Sale,48035,604,1006.47,33,4795.69
+2023-04-09,Google Ads,New Product Launch,45031,895,465.27,80,11788.22
+2023-04-15,TikTok Ads,Brand Awareness,17678,228,597.34,11,1309.99
+2023-12-14,Facebook Ads,Retargeting,46632,439,928.77,19,2837.62
+2023-09-25,Facebook Ads,Spring Sale,28119,269,262.15,17,886.24
+2023-05-21,TikTok Ads,New Product Launch,31935,723,1755.96,30,1794.59
+2023-02-06,Google Ads,Retargeting,24870,310,855.94,9,655.61
+2023-03-31,TikTok Ads,Retargeting,19761,225,232.33,15,1445.05
+2023-12-21,LinkedIn Ads,Retargeting,45838,626,1487.0,45,4809.59
+2023-03-18,Google Ads,New Product Launch,40454,566,1015.95,41,4685.29
+2023-04-19,Google Ads,Spring Sale,42445,1528,1486.37,135,8743.74
+2023-09-20,TikTok Ads,New Product Launch,37310,519,555.79,45,6429.97
+2023-11-28,Google Ads,New Product Launch,16212,606,1587.5,33,3544.97
+2023-04-27,LinkedIn Ads,New Product Launch,4181,94,60.39,7,687.0
+2023-07-18,Google Ads,New Product Launch,26639,274,739.07,12,645.43
+2023-01-28,TikTok Ads,Spring Sale,10736,304,665.02,9,597.44
+2023-08-20,Facebook Ads,Spring Sale,45634,1336,2904.73,51,5111.37
+2023-12-28,TikTok Ads,Spring Sale,27896,165,300.99,9,464.95
+2023-05-12,TikTok Ads,New Product Launch,17015,222,493.6,18,1830.78
+2023-11-26,LinkedIn Ads,New Product Launch,39165,766,1613.84,40,3201.61
+2023-01-13,LinkedIn Ads,Brand Awareness,20893,353,302.48,26,3294.12
+2023-11-14,Google Ads,Spring Sale,6942,203,595.71,6,593.86
+2023-02-20,TikTok Ads,New Product Launch,18837,456,371.99,26,3838.53
+2023-05-15,TikTok Ads,Brand Awareness,29990,764,678.38,18,2663.7
+2023-02-19,Facebook Ads,New Product Launch,14045,375,424.01,11,1576.84
+2023-05-15,TikTok Ads,Retargeting,28438,523,409.46,22,2356.52
+2023-06-27,LinkedIn Ads,Spring Sale,3838,74,145.75,6,697.2
+2023-10-06,LinkedIn Ads,New Product Launch,20640,318,310.46,15,1627.67
+2023-06-26,Google Ads,Retargeting,1088,7,14.64,0,0.0
+2023-03-16,LinkedIn Ads,New Product Launch,10057,271,373.68,26,3296.54
+2023-04-07,Google Ads,Brand Awareness,32764,1021,2287.6,98,5386.67
+2023-02-08,Google Ads,Brand Awareness,43439,1600,3851.15,156,17652.6
+2023-11-11,Google Ads,Spring Sale,18610,98,266.36,1,80.48
+2023-10-21,TikTok Ads,Retargeting,8802,77,211.26,4,567.11
+2023-06-08,Google Ads,New Product Launch,1933,23,67.51,1,117.3
+2023-04-25,LinkedIn Ads,Brand Awareness,7301,277,801.16,13,1862.64
+2023-03-04,Google Ads,Spring Sale,13357,81,106.9,5,476.66
+2023-03-13,TikTok Ads,Retargeting,36494,1035,1839.79,71,9418.26
+2023-11-06,Google Ads,New Product Launch,35621,438,758.48,29,3404.79
+2023-06-17,TikTok Ads,Spring Sale,44952,353,610.57,32,3177.83
+2023-05-17,Facebook Ads,Brand Awareness,7237,268,468.71,11,1521.94
+2023-08-12,TikTok Ads,New Product Launch,35037,686,1389.6,48,3802.92
+2023-11-06,Google Ads,New Product Launch,41509,610,616.95,25,1751.66
+2023-07-08,TikTok Ads,Spring Sale,13702,113,129.67,5,442.37
+2023-11-22,TikTok Ads,Spring Sale,17925,679,1535.38,21,1259.14
+2023-02-06,TikTok Ads,Spring Sale,4505,61,106.55,5,539.64
+2023-09-23,TikTok Ads,Spring Sale,39867,568,1420.0,19,2225.82
+2023-06-07,TikTok Ads,Retargeting,22935,303,338.11,9,1034.1
+2023-11-06,Google Ads,Retargeting,5393,59,140.91,5,517.38
+2023-05-12,Facebook Ads,Retargeting,20471,398,804.02,37,2880.56
+2023-11-17,TikTok Ads,Spring Sale,7566,255,730.66,8,476.43
+2023-05-14,Facebook Ads,Retargeting,31683,998,1992.68,37,4080.33
+2023-04-07,Google Ads,Spring Sale,35639,298,373.42,8,814.79
+2023-07-29,Google Ads,Retargeting,33701,765,439.67,54,3798.02
+2023-11-11,TikTok Ads,Retargeting,10121,332,942.84,17,1581.65
+2023-07-28,Facebook Ads,New Product Launch,48034,498,568.28,39,4163.33
+2023-03-16,LinkedIn Ads,Brand Awareness,22253,430,1087.92,16,1642.76
+2023-03-07,Google Ads,New Product Launch,19353,596,402.4,30,2920.46
+2023-03-04,Facebook Ads,Brand Awareness,26701,275,198.41,13,1790.43
+2023-10-27,Facebook Ads,Retargeting,22590,282,222.38,20,1017.52
+2023-11-02,Facebook Ads,New Product Launch,26198,266,212.74,26,3703.62
+2023-08-20,Facebook Ads,Spring Sale,46891,1243,2513.87,119,17127.31
+2023-05-09,LinkedIn Ads,Retargeting,41715,1545,4545.11,48,3587.67
+2023-05-05,Google Ads,Retargeting,17004,663,942.64,47,5402.37
+2023-11-21,LinkedIn Ads,Spring Sale,46031,1530,4268.92,147,16942.21
+2023-11-24,TikTok Ads,New Product Launch,3410,81,51.39,1,108.65
+2023-08-07,LinkedIn Ads,Spring Sale,44111,708,2079.11,63,6710.74
+2023-06-29,LinkedIn Ads,New Product Launch,23318,398,1078.28,24,3187.9
+2023-05-24,Facebook Ads,Retargeting,28479,703,432.63,35,4320.09
+2023-06-09,Google Ads,New Product Launch,41810,1376,1398.13,43,4130.24
+2023-10-11,LinkedIn Ads,Spring Sale,42489,456,1099.99,40,2897.22
+2023-02-22,TikTok Ads,Retargeting,16549,654,537.43,24,2948.77
+2023-04-07,Facebook Ads,Brand Awareness,29697,747,440.27,33,3693.12
+2023-02-02,LinkedIn Ads,Brand Awareness,24019,758,946.71,67,7446.28
+2023-05-12,TikTok Ads,Brand Awareness,21467,407,1205.94,23,1677.49
+2023-03-25,Facebook Ads,Spring Sale,13186,211,222.02,19,1082.62
+2023-12-11,TikTok Ads,New Product Launch,3645,101,262.2,6,473.81
+2023-02-18,Google Ads,Brand Awareness,23197,402,1172.46,37,2951.76
+2023-01-23,Google Ads,Retargeting,48843,1849,1024.51,49,3334.07
+2023-07-29,Facebook Ads,Brand Awareness,47961,712,901.08,17,893.62
+2023-12-09,TikTok Ads,Spring Sale,16323,329,706.41,26,2405.84
+2023-11-20,Google Ads,Spring Sale,4802,86,157.94,8,421.57
+2023-09-22,TikTok Ads,Brand Awareness,39861,1166,2071.03,113,16503.0
+2023-07-15,LinkedIn Ads,New Product Launch,42562,880,468.02,53,4330.01
+2023-03-09,Facebook Ads,New Product Launch,21401,612,334.37,58,3431.24
+2023-01-15,Facebook Ads,New Product Launch,14701,337,617.39,32,4661.44
+2023-01-28,LinkedIn Ads,Spring Sale,35832,387,387.61,19,2234.46
+2023-04-25,LinkedIn Ads,New Product Launch,49236,826,463.73,72,4155.62
+2023-04-08,TikTok Ads,New Product Launch,10035,62,177.81,4,543.09
+2023-03-21,LinkedIn Ads,Spring Sale,1961,35,68.39,2,260.99
+2023-10-14,TikTok Ads,Retargeting,26371,359,575.13,23,1602.34
+2023-10-16,TikTok Ads,Spring Sale,38398,990,1530.99,90,6683.62
+2023-10-20,TikTok Ads,Brand Awareness,29809,1011,2254.76,78,6873.99
+2023-10-01,LinkedIn Ads,Spring Sale,1264,24,12.38,2,299.61
+2023-03-05,LinkedIn Ads,New Product Launch,6796,188,412.86,7,1048.75
+2023-06-17,Facebook Ads,New Product Launch,33710,328,641.81,31,4343.22
+2023-11-13,Google Ads,Brand Awareness,11831,466,1082.98,27,1799.71
+2023-02-20,LinkedIn Ads,New Product Launch,10487,72,170.07,5,344.81
+2023-05-24,LinkedIn Ads,Retargeting,8148,184,447.25,11,1302.23
+2023-05-10,Facebook Ads,Spring Sale,33058,1024,1308.47,70,5415.05
+2023-12-30,Facebook Ads,Spring Sale,34270,1274,3504.35,25,1894.36
+2023-05-05,Facebook Ads,Retargeting,30505,1195,3350.46,40,2838.44
+2023-03-26,LinkedIn Ads,Spring Sale,28891,838,693.07,78,9421.57
+2023-11-23,LinkedIn Ads,New Product Launch,20155,664,1488.22,38,5398.29
+2023-09-06,LinkedIn Ads,Spring Sale,27234,321,742.16,8,1005.75
+2023-07-14,TikTok Ads,Spring Sale,33084,570,660.89,14,1333.57
+2023-10-07,LinkedIn Ads,Retargeting,29082,1035,2612.01,89,11902.76
+2023-12-27,TikTok Ads,Brand Awareness,24223,580,327.0,52,6096.19
+2023-06-08,Google Ads,Brand Awareness,19018,433,957.1,28,2403.99
+2023-02-04,TikTok Ads,New Product Launch,38159,238,467.43,5,324.08
+2023-12-12,TikTok Ads,New Product Launch,23525,179,418.37,5,621.06
+2023-08-06,Google Ads,New Product Launch,19892,473,724.21,13,1731.0
+2023-12-20,LinkedIn Ads,Spring Sale,48823,1098,1298.1,46,4108.75
+2023-12-17,TikTok Ads,Spring Sale,40527,392,1070.57,20,1830.68
+2023-12-15,Facebook Ads,Spring Sale,30155,413,1065.2,15,1723.6
+2023-03-25,Facebook Ads,Spring Sale,21377,770,1203.37,27,1420.76
+2023-05-25,LinkedIn Ads,New Product Launch,6179,153,434.66,5,302.52
+2023-11-01,TikTok Ads,Spring Sale,14348,513,351.7,18,2292.89
+2023-08-17,LinkedIn Ads,Spring Sale,43311,1161,833.46,32,3073.88
+2023-01-14,Facebook Ads,New Product Launch,18065,269,499.39,10,1321.86
+2023-01-20,Facebook Ads,Brand Awareness,42040,434,440.52,17,1901.89
+2023-11-04,TikTok Ads,Brand Awareness,18312,371,1092.05,21,1434.79
+2023-08-06,Facebook Ads,Spring Sale,9013,52,139.38,4,317.66
+2023-09-03,Facebook Ads,Spring Sale,41541,864,1620.04,33,3679.02
+2023-12-13,Facebook Ads,New Product Launch,49762,400,921.82,8,1119.41
+2023-02-07,TikTok Ads,Spring Sale,17793,532,1279.83,52,7662.7
+2023-09-30,LinkedIn Ads,New Product Launch,26835,927,2558.86,89,8724.13
+2023-11-13,LinkedIn Ads,New Product Launch,44401,990,1949.44,55,7257.14
+2023-06-21,Google Ads,Brand Awareness,3373,63,183.19,2,266.12
+2023-11-28,LinkedIn Ads,Retargeting,36653,827,553.89,72,10128.77
+2023-08-22,Facebook Ads,Brand Awareness,8129,229,549.96,17,1690.14
+2023-03-30,Facebook Ads,New Product Launch,16742,274,388.63,17,1684.42
+2023-02-25,TikTok Ads,Brand Awareness,17346,160,293.17,6,550.6
+2023-01-09,Facebook Ads,Retargeting,18764,632,1384.68,20,1857.74
+2023-11-09,Google Ads,Retargeting,33405,662,470.19,36,5299.74
+2023-11-18,LinkedIn Ads,Brand Awareness,34964,1042,2287.51,43,4364.55
+2023-07-11,TikTok Ads,Brand Awareness,35227,1381,3583.68,65,5955.77
+2023-12-26,Facebook Ads,Spring Sale,19048,135,377.26,8,793.42
+2023-11-24,LinkedIn Ads,New Product Launch,47593,519,662.43,17,2256.69
+2023-12-02,LinkedIn Ads,New Product Launch,46124,1526,4241.26,140,11860.97
+2023-07-13,Facebook Ads,Spring Sale,35912,1272,3766.26,71,4588.16
+2023-01-22,LinkedIn Ads,Brand Awareness,6029,237,440.06,16,1196.19
+2023-10-13,Facebook Ads,Spring Sale,15210,282,474.04,24,1840.64
+2023-11-26,Google Ads,Retargeting,6935,161,292.02,11,1030.36
+2023-06-15,TikTok Ads,Retargeting,9314,299,309.93,13,1517.5
+2023-05-20,TikTok Ads,New Product Launch,20045,272,630.79,25,1392.74
+2023-02-03,Facebook Ads,New Product Launch,49625,776,562.34,59,8456.14
+2023-04-03,TikTok Ads,Spring Sale,3938,156,279.35,12,1389.06
+2023-04-01,LinkedIn Ads,Brand Awareness,18232,341,445.22,33,2489.77
+2023-01-01,TikTok Ads,Spring Sale,8400,285,450.53,17,1527.05
+2023-01-18,Facebook Ads,New Product Launch,31774,552,1377.22,32,4740.24
+2023-07-28,LinkedIn Ads,Brand Awareness,6608,38,30.72,3,196.18
+2023-08-09,LinkedIn Ads,Retargeting,5288,50,113.88,1,120.93
+2023-01-11,LinkedIn Ads,New Product Launch,47078,680,1027.62,39,5119.97
+2023-01-29,TikTok Ads,New Product Launch,22404,651,1107.94,51,5728.41
+2023-10-01,Facebook Ads,Retargeting,30524,876,2483.63,85,9131.86
+2023-12-16,Google Ads,New Product Launch,23796,173,100.33,15,2111.82
+2023-09-30,Google Ads,Brand Awareness,4663,157,460.81,13,923.14
+2023-04-06,Google Ads,New Product Launch,45024,871,2512.32,18,2297.09
+2023-03-02,TikTok Ads,New Product Launch,23654,891,950.15,21,2706.88
+2023-05-03,TikTok Ads,Spring Sale,32608,457,784.26,15,841.59
+2023-11-03,Google Ads,Spring Sale,31541,595,1640.33,28,3848.86
+2023-06-11,LinkedIn Ads,Spring Sale,42385,604,1627.0,31,2019.22
+2023-03-21,TikTok Ads,New Product Launch,26577,968,2813.16,65,7090.32
+2023-07-13,Google Ads,Brand Awareness,8092,202,319.09,16,949.24
+2023-03-19,LinkedIn Ads,Brand Awareness,43508,991,956.68,32,1672.7
+2023-08-12,Google Ads,Retargeting,16992,581,1350.66,12,1264.1
+2023-12-27,Facebook Ads,Brand Awareness,36595,628,1542.87,13,1302.69
+2023-09-09,Facebook Ads,Spring Sale,46605,1852,4292.28,76,4288.0
+2024-01-01,Google Ads,Spring Sale,3197,35,78.6,3,292.72
+2023-05-30,Google Ads,Retargeting,9460,293,800.64,28,2480.81
+2023-12-02,Facebook Ads,Spring Sale,11788,129,341.8,5,443.87
+2023-10-07,LinkedIn Ads,New Product Launch,37772,729,1653.76,43,4232.4
+2023-03-27,TikTok Ads,Retargeting,32862,232,136.16,18,1952.23
+2023-08-09,TikTok Ads,New Product Launch,12886,449,1081.43,37,4818.04
+2023-12-10,Google Ads,Retargeting,13366,446,1288.86,41,3677.76
+2023-07-16,Facebook Ads,Brand Awareness,34082,1296,3633.72,77,5643.1
+2023-10-05,Google Ads,Spring Sale,31865,445,901.37,22,2730.0
+2023-10-21,LinkedIn Ads,Spring Sale,36880,977,2227.01,41,2351.45
+2023-05-16,LinkedIn Ads,New Product Launch,24110,391,321.25,9,1016.24
+2023-09-25,LinkedIn Ads,Retargeting,43283,1576,2998.0,96,5758.51
+2023-08-06,Facebook Ads,Brand Awareness,24104,508,1157.56,15,1362.84
+2023-10-17,Facebook Ads,Spring Sale,40618,978,2888.85,59,5256.1
+2023-12-23,Google Ads,Retargeting,37934,903,2204.32,77,6376.57
+2023-02-24,TikTok Ads,Retargeting,44840,1078,1576.45,106,8917.98
+2023-10-02,Google Ads,Brand Awareness,15380,526,371.14,10,1250.19
+2023-10-09,Facebook Ads,Spring Sale,39506,1425,2340.84,132,8402.24
+2023-08-20,LinkedIn Ads,New Product Launch,7490,141,309.37,8,414.01
+2023-06-05,Google Ads,New Product Launch,17484,319,473.87,10,876.95
+2023-01-23,Facebook Ads,Retargeting,13539,362,772.75,33,2439.82
+2023-03-12,Facebook Ads,Spring Sale,17978,681,1233.43,25,2231.17
+2023-05-13,Google Ads,Spring Sale,6881,235,379.87,21,1613.48
+2023-08-12,Google Ads,Retargeting,42584,1268,2464.66,25,3506.25
+2023-09-25,Google Ads,Spring Sale,28026,560,1141.93,17,1952.42
+2023-12-22,TikTok Ads,Spring Sale,9309,368,321.91,18,1543.79
+2023-04-05,LinkedIn Ads,Retargeting,47979,482,359.6,36,2222.48
+2023-02-10,Facebook Ads,Retargeting,48419,1619,3696.89,132,17492.49
+2023-05-14,Facebook Ads,Retargeting,2433,72,65.11,2,172.04
+2023-02-07,Facebook Ads,Spring Sale,33299,391,629.56,29,3279.52
+2023-07-31,TikTok Ads,New Product Launch,44802,648,1657.18,22,1985.05
+2023-04-25,TikTok Ads,Retargeting,30649,553,1092.59,20,2698.78
+2023-06-03,TikTok Ads,New Product Launch,13745,455,1181.06,20,1026.08
+2023-06-01,Facebook Ads,Brand Awareness,36126,541,1257.66,52,5518.21
+2023-04-30,Facebook Ads,Spring Sale,37258,1186,3184.44,110,13476.72
+2023-04-10,LinkedIn Ads,New Product Launch,23607,355,986.78,24,2924.54
+2023-07-02,TikTok Ads,Brand Awareness,38215,436,806.66,26,2061.32
+2023-11-23,TikTok Ads,Retargeting,17769,121,206.94,10,927.22
+2023-01-18,Facebook Ads,Spring Sale,15446,586,1422.73,30,3833.03
+2023-05-12,LinkedIn Ads,Spring Sale,4254,134,324.84,4,379.3
+2023-04-05,Google Ads,Spring Sale,45412,569,366.28,24,2466.79
+2023-03-02,Google Ads,New Product Launch,10647,278,533.16,21,2968.48
+2023-10-15,Facebook Ads,Spring Sale,19736,378,1097.62,24,3488.06
+2023-10-10,Google Ads,New Product Launch,32904,203,365.83,15,1951.18
+2023-12-05,Google Ads,New Product Launch,4527,162,207.11,10,914.61
+2023-06-22,Facebook Ads,New Product Launch,35535,903,2386.59,63,3625.34
+2023-11-20,Google Ads,Brand Awareness,14972,247,450.02,17,2166.0
+2023-11-04,Google Ads,Brand Awareness,28946,408,839.59,17,1600.77
+2023-04-20,TikTok Ads,Spring Sale,36040,1239,759.59,67,4998.07
+2023-02-17,LinkedIn Ads,Retargeting,15715,394,438.96,36,3383.22
+2023-03-19,Google Ads,Brand Awareness,8240,264,317.56,8,477.13
+2023-12-15,TikTok Ads,Brand Awareness,4741,74,138.68,2,237.67
+2023-08-11,Google Ads,Retargeting,38241,1204,3287.55,92,6745.93
+2023-01-06,LinkedIn Ads,New Product Launch,40831,235,268.61,7,822.68
+2023-04-15,TikTok Ads,Brand Awareness,32796,1108,874.81,73,9782.08
+2023-03-31,Google Ads,Brand Awareness,9521,217,337.15,16,2039.58
+2023-09-27,TikTok Ads,New Product Launch,18290,200,119.29,9,804.72
+2023-06-28,TikTok Ads,Spring Sale,30111,301,565.42,20,2015.57
+2023-07-28,TikTok Ads,Spring Sale,4672,45,111.84,1,91.5
+2023-11-06,Google Ads,New Product Launch,7958,311,424.36,29,2501.64
+2023-05-19,Facebook Ads,New Product Launch,30191,256,448.18,23,3052.31
+2023-01-28,Facebook Ads,New Product Launch,8257,205,514.86,9,576.45
+2023-02-26,Google Ads,Brand Awareness,1160,40,57.5,1,107.35
+2023-12-09,TikTok Ads,Retargeting,28004,467,1273.13,30,2066.88
+2023-04-16,TikTok Ads,New Product Launch,11708,219,223.24,9,810.52
+2023-04-16,Google Ads,Retargeting,38650,1123,696.54,55,6148.48
+2023-03-28,Google Ads,Retargeting,10073,400,454.56,29,2429.87
+2023-11-30,TikTok Ads,Retargeting,3534,49,75.95,2,151.54
+2023-08-13,TikTok Ads,New Product Launch,39382,459,867.32,32,3589.64
+2023-03-23,Google Ads,Retargeting,27444,659,467.44,33,4338.5
+2023-12-22,TikTok Ads,Spring Sale,38524,983,2491.4,45,3419.24
+2023-08-24,TikTok Ads,Brand Awareness,41851,1276,2035.23,31,2973.92
+2023-07-14,LinkedIn Ads,Brand Awareness,32265,393,740.25,25,3117.56
+2023-09-11,TikTok Ads,New Product Launch,27978,1037,713.02,103,13331.82
+2023-09-23,LinkedIn Ads,New Product Launch,45713,1415,3568.79,83,4513.04
+2023-07-03,Google Ads,Retargeting,13242,209,290.27,17,1717.45
+2023-11-19,LinkedIn Ads,New Product Launch,16503,414,542.66,37,4250.01
+2023-07-08,TikTok Ads,New Product Launch,31174,673,1227.5,49,4206.51
+2023-11-24,Google Ads,Spring Sale,9017,313,780.24,15,1989.76
+2023-10-15,Facebook Ads,Brand Awareness,49232,1325,1979.03,39,5681.7
+2023-02-08,TikTok Ads,Retargeting,18016,355,811.88,18,2220.2
+2023-05-30,Facebook Ads,Brand Awareness,11444,444,973.64,34,2906.87
+2023-06-20,TikTok Ads,Retargeting,48780,1153,2841.21,34,2989.75
+2023-02-09,TikTok Ads,Spring Sale,24249,604,553.29,48,5893.15
+2023-03-24,LinkedIn Ads,Brand Awareness,39413,1444,1592.44,30,2195.26
+2023-01-04,Facebook Ads,Retargeting,26998,787,2347.47,60,4276.18
+2023-07-30,Google Ads,Spring Sale,27873,704,1462.28,40,4190.06
+2023-11-27,TikTok Ads,New Product Launch,47725,1203,1065.82,119,7982.73
+2023-11-19,LinkedIn Ads,Retargeting,3718,125,221.77,7,678.57
+2023-08-04,LinkedIn Ads,Spring Sale,19388,150,391.15,5,294.9
+2023-06-03,Facebook Ads,Spring Sale,20594,590,567.2,32,3147.52
+2023-01-08,Facebook Ads,Retargeting,24717,413,1045.24,26,3140.15
+2023-01-12,LinkedIn Ads,Brand Awareness,28847,219,265.1,16,1084.05
+2023-06-26,TikTok Ads,New Product Launch,21225,730,2065.07,70,8847.14
+2023-08-08,Google Ads,Brand Awareness,40360,1449,3852.11,38,5063.21
+2023-02-24,Google Ads,New Product Launch,34779,1180,3330.8,25,3744.42
+2023-09-15,Google Ads,Spring Sale,32981,934,2289.59,35,3919.48
+2023-04-06,TikTok Ads,Spring Sale,7333,69,120.84,4,219.74
+2023-12-28,LinkedIn Ads,Spring Sale,22616,890,1917.1,67,3435.3
+2023-12-04,Facebook Ads,New Product Launch,48220,501,1320.91,14,1342.11
+2023-02-13,Google Ads,New Product Launch,17456,611,1803.19,58,3352.72
+2023-08-24,TikTok Ads,Retargeting,18801,521,743.83,33,4736.66
+2023-10-16,TikTok Ads,Spring Sale,13442,458,808.07,25,2786.46
+2023-09-10,LinkedIn Ads,Brand Awareness,43363,956,2552.74,65,9694.91
+2023-07-20,Facebook Ads,Spring Sale,39469,397,470.57,17,1873.58
+2023-02-06,TikTok Ads,New Product Launch,42784,1560,4002.4,127,9564.29
+2023-10-12,TikTok Ads,Retargeting,48567,678,1017.61,30,3990.85
+2023-03-20,TikTok Ads,Brand Awareness,6212,131,301.03,9,537.92
+2023-06-09,Google Ads,New Product Launch,18937,614,681.87,57,6049.84
+2023-09-15,LinkedIn Ads,Retargeting,46705,744,677.85,63,9285.8
+2023-09-08,TikTok Ads,Spring Sale,47903,1905,1395.1,168,16750.38
+2023-06-08,Google Ads,Brand Awareness,23900,890,1192.24,35,4588.42
+2023-11-07,Facebook Ads,Retargeting,20439,716,1289.08,53,6777.15
+2023-12-09,Facebook Ads,Spring Sale,12200,376,945.01,19,1367.68
+2023-03-20,LinkedIn Ads,Retargeting,41920,375,586.39,15,1405.72
+2023-03-09,TikTok Ads,Brand Awareness,13117,487,570.49,10,1281.61
+2023-06-11,Google Ads,New Product Launch,20019,159,142.3,9,817.34
+2023-03-07,Facebook Ads,Spring Sale,35561,986,2827.96,60,3320.65
+2023-11-13,Google Ads,Spring Sale,23968,228,672.12,9,1232.7
+2023-07-28,LinkedIn Ads,Brand Awareness,22822,398,925.52,36,4265.34
+2023-03-07,Google Ads,Retargeting,4017,46,91.99,4,591.99
+2023-02-03,TikTok Ads,Brand Awareness,44838,481,1240.11,11,594.99
+2023-05-31,Google Ads,New Product Launch,37753,843,2063.74,39,2831.34
+2023-01-13,Google Ads,Spring Sale,49107,731,1495.72,28,2511.56
+2023-08-05,LinkedIn Ads,Brand Awareness,1676,14,33.07,0,0.0
+2023-09-01,Facebook Ads,New Product Launch,19524,733,2135.48,22,1700.75
+2023-07-16,Google Ads,New Product Launch,42854,1163,3284.18,46,3687.8
+2023-03-17,Google Ads,Brand Awareness,33964,533,1392.28,48,5551.57
+2023-05-10,Google Ads,New Product Launch,11770,174,466.64,8,840.37
+2023-10-09,LinkedIn Ads,Retargeting,24523,687,462.76,61,6465.7
+2023-06-29,TikTok Ads,Retargeting,33760,1344,3185.49,50,4760.28
+2023-12-21,Facebook Ads,Retargeting,2031,45,27.68,2,281.6
+2023-10-14,Google Ads,Retargeting,31777,181,321.35,9,1158.29
+2023-06-06,TikTok Ads,Retargeting,21752,284,203.73,26,2862.97
+2023-09-12,LinkedIn Ads,Retargeting,24629,465,671.33,11,1314.64
+2023-04-23,LinkedIn Ads,Brand Awareness,17565,282,815.6,21,1323.9
+2023-08-03,LinkedIn Ads,Brand Awareness,38364,466,427.85,45,4206.94
+2023-08-28,Facebook Ads,New Product Launch,39732,620,314.91,39,2693.63
+2023-07-09,LinkedIn Ads,Retargeting,6082,191,103.81,8,657.97
+2023-06-12,Google Ads,Retargeting,45142,812,1117.26,48,4872.73
+2023-07-09,LinkedIn Ads,New Product Launch,2799,16,24.18,0,0.0
+2023-10-09,TikTok Ads,New Product Launch,12245,240,521.89,5,637.75
+2023-01-26,Google Ads,Spring Sale,25683,351,228.38,23,1972.01
+2023-06-15,TikTok Ads,Retargeting,23613,247,714.52,12,663.65
+2023-11-12,TikTok Ads,Brand Awareness,44106,440,1127.46,41,5989.81
+2023-02-15,Facebook Ads,Brand Awareness,38730,1033,1690.52,96,11544.53
+2023-04-25,LinkedIn Ads,New Product Launch,25600,565,1515.89,51,6184.23
+2023-05-19,Google Ads,Spring Sale,7707,278,561.1,10,1439.51
+2023-02-16,TikTok Ads,Brand Awareness,20876,786,497.5,25,2848.12
+2023-03-16,Facebook Ads,Retargeting,34521,1176,831.94,108,12287.06
+2023-04-17,TikTok Ads,Retargeting,30028,261,687.67,24,1393.58
+2023-03-18,LinkedIn Ads,Retargeting,39154,760,1326.72,27,3806.3
+2023-01-02,TikTok Ads,New Product Launch,48094,998,1021.74,90,6090.55
+2023-02-18,TikTok Ads,New Product Launch,6657,188,348.36,12,1690.16
+2023-09-11,TikTok Ads,New Product Launch,1273,23,16.54,0,0.0
+2023-04-04,Facebook Ads,Retargeting,37974,966,1017.75,66,7614.33
+2023-02-15,TikTok Ads,New Product Launch,26332,429,746.25,9,1060.71
+2023-05-04,Facebook Ads,Brand Awareness,34438,529,438.57,16,2122.78
+2023-05-10,Facebook Ads,Spring Sale,33844,837,1101.35,68,6956.98
+2023-01-24,Facebook Ads,New Product Launch,3115,52,77.8,4,227.8
+2023-01-03,Facebook Ads,Spring Sale,11319,216,138.74,20,2307.27
+2023-11-14,Facebook Ads,Spring Sale,18771,265,294.14,22,2876.06
+2023-01-05,TikTok Ads,New Product Launch,5974,229,124.35,17,1838.59
+2023-06-08,Google Ads,Brand Awareness,37227,1141,1703.46,104,7635.28
+2023-06-16,Google Ads,Brand Awareness,8049,299,233.89,25,3204.45
+2023-06-24,Facebook Ads,New Product Launch,16802,197,128.13,12,1697.95
+2023-01-05,Google Ads,Spring Sale,20945,403,1198.7,18,2637.18
+2023-09-11,TikTok Ads,Retargeting,21335,465,838.21,19,1910.33
+2023-10-07,Google Ads,Brand Awareness,27683,505,381.72,39,4430.47
+2023-06-11,Google Ads,Spring Sale,8949,334,578.34,9,1227.52
+2023-02-17,TikTok Ads,Retargeting,17544,596,528.4,15,875.22
+2023-09-21,TikTok Ads,Spring Sale,39108,1090,2719.04,44,2662.54
+2023-01-30,LinkedIn Ads,Brand Awareness,6720,134,151.85,11,1294.89
+2023-08-19,TikTok Ads,New Product Launch,8075,254,395.98,14,1622.63
+2023-01-09,LinkedIn Ads,Retargeting,4408,49,56.97,2,262.23
+2023-04-10,LinkedIn Ads,Spring Sale,13481,309,768.15,28,2727.63
+2023-08-05,Google Ads,Spring Sale,46757,1026,2927.45,31,3825.66
+2023-12-14,Google Ads,Retargeting,3093,73,48.38,5,488.3
+2023-03-09,TikTok Ads,Retargeting,7481,94,102.9,6,653.62
+2023-11-15,Facebook Ads,Brand Awareness,30653,780,550.84,67,7479.83
+2023-09-30,LinkedIn Ads,New Product Launch,37247,658,1610.94,31,4153.29
+2023-05-01,LinkedIn Ads,Spring Sale,17607,458,1251.59,25,2379.16
+2023-06-26,Facebook Ads,Retargeting,24490,285,415.5,8,960.47
+2023-02-18,TikTok Ads,Spring Sale,9678,76,61.83,6,504.51
+2023-04-25,Google Ads,Brand Awareness,27527,139,389.47,4,537.04
+2023-05-21,TikTok Ads,New Product Launch,25761,998,2723.84,36,4264.88
+2023-04-23,Facebook Ads,Spring Sale,14008,512,276.31,48,7009.47
+2023-07-05,TikTok Ads,Spring Sale,6351,193,150.56,12,1017.42
+2023-12-24,Facebook Ads,Retargeting,23612,623,640.45,46,4465.73
+2023-10-26,Facebook Ads,New Product Launch,42268,855,1955.9,36,3024.94
+2023-11-20,Google Ads,New Product Launch,4068,122,359.8,8,1011.07
+2023-11-30,Facebook Ads,Spring Sale,22165,811,1111.92,43,5754.49
+2023-10-30,TikTok Ads,Spring Sale,46171,663,1103.68,26,3148.71
+2023-09-05,LinkedIn Ads,New Product Launch,4472,103,214.86,7,718.66
+2023-11-23,Facebook Ads,Brand Awareness,41865,1529,2144.5,69,9462.2
+2023-09-06,Facebook Ads,Brand Awareness,37275,1424,2729.8,134,11424.65
+2023-02-12,TikTok Ads,Spring Sale,2865,50,124.55,1,141.23
+2023-08-31,Google Ads,New Product Launch,3158,31,53.45,2,267.29
+2023-07-25,Google Ads,Spring Sale,46598,1245,3287.46,45,4264.92
+2023-06-08,Google Ads,New Product Launch,26940,830,2135.02,36,3518.74
+2023-01-24,Facebook Ads,Spring Sale,27993,370,818.82,20,1735.87
+2023-07-03,TikTok Ads,New Product Launch,30912,1077,2907.31,93,5679.04
+2023-05-25,Google Ads,Retargeting,23698,487,1367.19,39,2143.47
+2023-12-08,LinkedIn Ads,Brand Awareness,35324,1402,1271.15,101,12971.56
+2023-10-08,Facebook Ads,New Product Launch,29708,661,1622.75,17,1446.52
+2023-04-18,Google Ads,Retargeting,24977,589,907.12,18,1316.79
+2023-08-12,LinkedIn Ads,New Product Launch,30575,554,1458.56,50,5640.92
+2023-01-19,Google Ads,Brand Awareness,22723,486,1172.85,31,2599.65
+2023-05-11,Facebook Ads,New Product Launch,31981,913,1502.83,59,4160.58
+2023-11-23,Google Ads,Retargeting,16893,454,1315.2,22,3090.87
+2023-07-09,Facebook Ads,Spring Sale,44963,1031,1685.44,98,13514.51
+2023-03-05,Google Ads,Retargeting,44563,1031,589.89,28,3983.98
+2023-07-29,Google Ads,Spring Sale,15345,182,377.59,3,161.52
+2023-05-06,Facebook Ads,Brand Awareness,30040,270,735.07,13,1873.68
+2023-10-15,TikTok Ads,Spring Sale,31426,413,1151.42,10,1143.5
+2023-03-28,LinkedIn Ads,Brand Awareness,45051,1386,1644.38,41,4576.53
+2023-10-04,LinkedIn Ads,Spring Sale,27052,993,1517.19,30,2069.53
+2023-05-10,Facebook Ads,Brand Awareness,20480,743,2122.17,40,5821.95
+2023-04-08,TikTok Ads,Brand Awareness,12852,379,1074.75,32,2935.18
+2023-04-12,TikTok Ads,Spring Sale,32100,1000,1098.14,79,6390.4
+2023-09-30,LinkedIn Ads,Spring Sale,18949,625,484.17,42,3082.71
+2023-10-29,Facebook Ads,Brand Awareness,30993,879,1720.9,72,4050.65
+2023-08-07,LinkedIn Ads,Brand Awareness,38998,344,548.43,23,2130.09
+2023-07-01,Google Ads,Brand Awareness,45616,259,573.89,24,2564.47
+2023-10-26,LinkedIn Ads,New Product Launch,35432,1208,2082.79,82,10355.63
+2023-10-26,Facebook Ads,Brand Awareness,8213,272,592.15,20,2687.66
+2023-07-17,LinkedIn Ads,Brand Awareness,38618,668,1495.71,15,1622.29
+2023-05-23,TikTok Ads,Retargeting,41924,462,894.2,19,1194.53
+2023-12-27,Google Ads,Retargeting,49343,1060,2908.64,41,5891.91
+2023-05-07,TikTok Ads,Retargeting,4170,142,357.54,6,845.31
+2023-02-26,TikTok Ads,New Product Launch,19513,499,422.27,16,1183.62
+2023-03-23,Facebook Ads,Spring Sale,41813,1420,2217.91,33,2291.6
+2023-04-19,Google Ads,Retargeting,31108,1185,948.89,29,2666.19
+2023-05-17,TikTok Ads,New Product Launch,14424,495,803.97,33,2338.99
+2023-10-27,TikTok Ads,New Product Launch,49940,1950,4832.5,168,13953.96
+2023-09-13,LinkedIn Ads,Retargeting,32839,910,2568.28,53,6865.72
+2023-09-22,Google Ads,Spring Sale,10630,219,398.53,11,1372.4
+2023-12-04,Facebook Ads,Brand Awareness,12043,205,440.8,4,294.88
+2023-04-06,Google Ads,Spring Sale,36004,1389,3213.64,114,9978.29
+2023-08-15,Facebook Ads,Retargeting,12178,427,558.98,36,5354.91
+2023-04-03,TikTok Ads,Brand Awareness,27187,973,1400.0,55,7396.34
+2023-11-22,TikTok Ads,Spring Sale,31365,1159,1293.56,40,2541.41
+2023-02-27,LinkedIn Ads,Brand Awareness,14099,322,361.8,19,1632.34
+2023-04-21,LinkedIn Ads,Spring Sale,48038,1329,670.91,80,8045.61
+2023-01-01,LinkedIn Ads,New Product Launch,3819,138,399.08,9,1172.64
+2023-10-03,TikTok Ads,Brand Awareness,36737,1079,3072.77,93,10489.19
+2023-06-24,Google Ads,New Product Launch,11754,275,458.74,11,567.68
+2023-09-24,Facebook Ads,Retargeting,15117,123,219.01,3,264.82
+2023-04-03,Facebook Ads,Brand Awareness,49269,1415,1327.01,77,9621.98
+2023-02-09,LinkedIn Ads,Brand Awareness,2583,72,126.26,3,206.12
+2023-07-14,Google Ads,Retargeting,40506,758,407.81,26,3789.55
+2023-03-10,Google Ads,New Product Launch,43755,452,570.26,44,3030.92
+2023-11-27,LinkedIn Ads,Retargeting,25453,224,479.12,5,553.59
+2023-07-16,TikTok Ads,Spring Sale,28224,588,897.79,15,1479.2
+2023-01-20,Google Ads,New Product Launch,10570,207,107.29,10,664.15
+2023-12-07,Google Ads,New Product Launch,40738,1286,3599.72,100,9366.8
+2023-08-26,Google Ads,Spring Sale,39958,403,249.65,40,4827.11
+2023-02-05,LinkedIn Ads,Retargeting,19407,324,780.17,14,1189.44
+2023-02-18,TikTok Ads,Spring Sale,4621,169,187.53,11,1429.19
+2023-04-21,LinkedIn Ads,New Product Launch,34606,830,1523.18,32,4360.89
+2023-02-26,LinkedIn Ads,Spring Sale,36531,722,1121.92,48,6282.59
+2023-09-23,Facebook Ads,New Product Launch,41495,609,1607.18,38,3118.77
+2023-03-17,Google Ads,Brand Awareness,39582,980,745.62,60,3768.27
+2023-07-19,LinkedIn Ads,Retargeting,21969,506,620.75,10,798.17
+2023-10-28,LinkedIn Ads,Retargeting,12238,66,45.1,1,96.51
+2023-09-06,Google Ads,Brand Awareness,26666,406,867.42,13,1258.88
+2023-07-25,LinkedIn Ads,Retargeting,31344,635,1774.74,16,911.57
+2023-10-12,Facebook Ads,Spring Sale,21853,476,1037.02,19,2552.04
+2023-11-22,TikTok Ads,Spring Sale,30920,531,957.83,10,1323.87
+2023-09-28,Facebook Ads,New Product Launch,47946,1341,1248.5,57,7878.51
+2023-06-29,TikTok Ads,Spring Sale,47408,863,2169.37,52,6972.01
+2023-06-26,LinkedIn Ads,Retargeting,20469,257,563.44,18,977.73
+2023-10-16,Google Ads,New Product Launch,22368,460,728.09,16,2357.27
+2023-08-03,Google Ads,Spring Sale,36053,1420,4253.48,50,2597.95
+2023-08-03,Google Ads,Spring Sale,8670,208,554.75,15,1616.8
+2023-06-17,Facebook Ads,New Product Launch,12002,306,178.2,24,3511.7
+2023-10-07,TikTok Ads,Brand Awareness,36864,776,410.37,37,5531.83
+2023-03-22,Facebook Ads,Retargeting,10034,82,53.97,3,335.16
+2023-05-24,LinkedIn Ads,Retargeting,21983,371,561.0,23,2002.59
+2023-07-19,Facebook Ads,New Product Launch,34165,1007,2533.85,85,11416.13
+2023-04-23,Facebook Ads,New Product Launch,2206,68,111.74,4,439.17
+2023-09-07,Facebook Ads,New Product Launch,38040,464,657.09,10,1162.37
+2023-05-31,LinkedIn Ads,Retargeting,26827,1033,1328.71,48,3190.03
+2023-03-07,Google Ads,Brand Awareness,47336,1178,1193.57,104,6840.23
+2023-08-05,TikTok Ads,Spring Sale,13723,377,561.33,8,938.04
+2023-09-05,Facebook Ads,Spring Sale,47831,858,2410.16,40,5575.11
+2023-08-11,Facebook Ads,Brand Awareness,30788,340,275.55,30,3457.81
+2023-09-17,Facebook Ads,Spring Sale,36308,738,1584.17,25,1990.39
+2023-04-28,TikTok Ads,Retargeting,24938,910,1294.93,64,5717.69
+2023-10-13,Facebook Ads,Retargeting,29730,372,242.63,22,1149.03
+2023-01-20,TikTok Ads,Retargeting,48597,671,476.23,37,5421.35
+2023-05-08,Google Ads,Spring Sale,19216,293,248.25,27,3473.06
+2023-12-07,TikTok Ads,New Product Launch,6278,210,625.11,8,649.63
+2023-07-18,Google Ads,New Product Launch,14997,593,1488.76,13,1456.07
+2023-01-30,Google Ads,Spring Sale,46379,1269,802.6,87,5950.22
+2023-04-14,TikTok Ads,Retargeting,22828,502,1113.38,11,941.77
+2023-10-13,TikTok Ads,Brand Awareness,39167,467,1312.89,31,3729.07
+2023-03-16,LinkedIn Ads,Retargeting,22852,344,1013.28,27,3042.27
+2023-07-16,Facebook Ads,Retargeting,35860,997,2127.53,92,11906.09
+2023-09-15,Google Ads,New Product Launch,17497,520,1106.07,17,1531.71
+2023-02-15,Google Ads,Brand Awareness,13524,145,313.6,10,1340.01
+2023-09-30,Google Ads,Brand Awareness,26832,651,630.53,31,2537.86
+2023-09-03,Google Ads,Spring Sale,20324,210,625.59,8,749.29
+2023-09-14,Facebook Ads,New Product Launch,3380,94,231.74,5,493.14
+2023-03-18,LinkedIn Ads,New Product Launch,23679,789,423.84,43,4864.68
+2023-08-25,TikTok Ads,Brand Awareness,1898,69,130.75,3,240.27
+2023-01-07,Google Ads,New Product Launch,6326,200,365.64,11,1146.8
+2023-08-18,TikTok Ads,New Product Launch,26976,303,875.22,14,1285.66
+2023-07-31,Facebook Ads,Brand Awareness,27272,190,215.94,6,458.41
+2023-08-21,Google Ads,Retargeting,42366,1623,2220.68,94,8602.84
+2023-12-19,LinkedIn Ads,Retargeting,5087,152,88.32,4,310.64
+2023-01-16,TikTok Ads,Brand Awareness,19883,229,577.37,14,1770.49
+2023-06-02,Google Ads,Spring Sale,39824,382,880.77,8,756.06
+2023-09-20,TikTok Ads,Brand Awareness,32243,687,1713.66,23,1410.1
+2023-04-30,LinkedIn Ads,Brand Awareness,20749,727,1835.23,70,8105.15
+2023-05-13,TikTok Ads,New Product Launch,7872,168,288.33,14,913.9
+2023-10-22,TikTok Ads,New Product Launch,43688,1596,1775.44,64,3996.79
+2023-11-28,TikTok Ads,Retargeting,9529,349,728.11,26,3537.89
+2023-10-02,LinkedIn Ads,New Product Launch,34425,709,529.24,64,3821.75
+2023-11-03,TikTok Ads,Retargeting,10915,192,543.31,10,902.5
+2023-01-03,TikTok Ads,Retargeting,11965,324,803.7,25,2727.02
+2023-10-07,LinkedIn Ads,New Product Launch,18613,161,458.27,15,1037.32
+2023-09-09,Facebook Ads,Retargeting,14264,346,806.31,25,3441.36
+2023-04-14,TikTok Ads,New Product Launch,10095,394,285.26,30,2528.55
+2023-07-04,Google Ads,Retargeting,13494,457,407.61,31,2754.04
+2023-02-16,TikTok Ads,Brand Awareness,22687,339,536.47,11,823.79
+2023-09-30,TikTok Ads,New Product Launch,20474,486,1457.52,11,948.14
+2023-06-24,TikTok Ads,New Product Launch,8925,132,138.12,10,1131.9
+2023-09-22,LinkedIn Ads,New Product Launch,37161,957,2462.79,70,6663.2
+2023-07-09,Facebook Ads,Brand Awareness,11156,106,188.58,3,382.35
+2023-09-08,Facebook Ads,Retargeting,4884,188,476.67,13,1802.11
+2023-07-10,TikTok Ads,Retargeting,36287,863,2155.33,23,2289.16
+2023-03-19,TikTok Ads,Brand Awareness,22882,438,1072.18,39,2364.96
+2023-01-31,Google Ads,Brand Awareness,42657,853,2507.06,51,6458.63
+2023-05-05,Facebook Ads,New Product Launch,26943,735,1220.79,34,1727.24
+2023-07-24,Google Ads,Spring Sale,3219,42,58.02,3,336.33
+2023-03-08,TikTok Ads,Brand Awareness,42774,1603,2104.42,46,3246.02
+2023-06-12,Google Ads,Brand Awareness,43483,440,1032.92,37,4384.09
+2023-11-03,Google Ads,Spring Sale,44848,232,535.87,21,1423.88
+2023-12-24,LinkedIn Ads,Retargeting,18689,163,396.63,4,541.88
+2023-12-19,Facebook Ads,Spring Sale,40666,298,742.81,14,1064.11
+2023-02-21,TikTok Ads,Brand Awareness,46114,1202,1140.45,45,5598.12
+2023-01-09,LinkedIn Ads,Retargeting,19273,385,686.22,14,732.98
+2023-12-21,LinkedIn Ads,New Product Launch,20308,148,199.9,5,641.88
+2023-08-20,LinkedIn Ads,New Product Launch,37452,530,1428.58,50,6763.96
+2023-07-15,Facebook Ads,Retargeting,39408,1419,3770.56,43,5419.29
+2023-08-28,TikTok Ads,Spring Sale,22150,524,1168.52,27,3081.2
+2023-04-28,Google Ads,Retargeting,21969,870,2013.57,50,5741.06
+2023-10-23,Google Ads,Brand Awareness,9744,81,175.91,4,484.39
+2023-06-06,LinkedIn Ads,Retargeting,40565,541,367.01,51,6009.24
+2023-10-27,LinkedIn Ads,New Product Launch,36390,1317,1335.9,122,13896.76
+2023-06-24,TikTok Ads,Retargeting,49692,1034,1681.68,71,9691.9
