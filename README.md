@@ -9,7 +9,7 @@ Analyzed multi-channel ad performance (Facebook, Google, TikTok, LinkedIn) to de
 * **Power BI:** Visualized the conversion funnel and calculated key efficiency metrics (CPC, CTR, ROAS).
 
 ## 💡 Key Findings
-* **LinkedIn Wins:** Unexpectedly, LinkedIn Ads provided the highest ROAS, suggesting a successful high-ticket B2B strategy.
+* **Tiktok Wins:** Unexpectedly, Tiktok Ads provided the highest ROAS, suggesting a successful high-ticket B2B strategy.
 * **Funnel Health:** Visualized the drop-off from Impression to Conversion to identify weak campaign messaging.
 
 ## 📸 Dashboard
